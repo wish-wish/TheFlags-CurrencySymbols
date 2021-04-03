@@ -116,6 +116,176 @@ def processSymbols():
         if n not in symbols:
             print n;
 
+def isMatchName(n1,n2list):    
+    for n2 in n2list:
+        n11=n1.lower()[:-4];
+        n22=n2.lower()[:-4];
+        if n11.find(n22)>=0 or n22.find(n11)>=0:
+            return True,n2;
+    return False,"";
+
+def isMatchName2(n1,n2list):    
+    for n2 in n2list:        
+        if n1.replace("_","-").lower()==n2.lower():
+            return True;
+    return False;
+
+def processCircle2():
+    afiles=[];
+    anames=[];
+    walk_files(getCur()+"flag_circle",afiles);
+    for line in afiles:
+        n=line.encode("gb2312").split(r"/");
+        anames.append(n[len(n)-1]);
+    idx=0;
+    hitcount=0;
+    f=open(getCur()+"coin_sections.json","r")
+    for line in f:
+        arr=line.encode("gb2312").split(",")
+        if len(arr)<3:
+            continue;
+        na=arr[2][1:-1];        
+        if arr[3]=="" and isMatchName2(na,anames):
+            arr[3]="2";
+            hitcount=hitcount+1;
+        #else: 
+        #    break;
+        nline="";
+        arr[0]="["+str(idx);
+        for a in arr:
+            if a.lstrip()!="":
+                nline=nline+a+",";
+        print nline;
+        idx=idx+1;
+    print hitcount;
+    
+
+def processCircle():
+    afiles=[];
+    anames=[];
+    walk_files(getCur()+"flag_circle",afiles);
+    for line in afiles:
+        n=line.encode("gb2312").split(r"/");
+        anames.append(n[len(n)-1]);
+        #print(n[len(n)-1])
+
+    f=open(getCur()+"coin_sections.json","r")
+    hitcout=0;
+    symbols=[];
+    nohits=[];
+    hitmatchs=[];
+    for line in f:
+        arr=line.encode("gb2312").split(",")
+        if len(arr)<3:
+            continue;
+        #arr.insert(2,"aa");
+        #symbols.append(arr[2]);
+        na=arr[2][1:-1].lower();  
+        symbols.append(na);
+        isMatch,gotn=isMatchName(na,anames);
+        if na.lower() in anames:
+            #arr.insert(3,'"1"');
+            arr[3]='"1"'
+            hitcout=hitcout+1;        
+        elif isMatch:
+            #arr.insert(3,'"'+gotn+'"');
+            arr[3]='"'+gotn+'"'
+            hitcout=hitcout+1;
+            hitmatchs.append(gotn);        
+        else:
+            #arr.insert(3,'""');
+            arr[3]='""'
+            nohits.append(na);
+
+        nline="";
+        for a in arr:
+            if a.lstrip()!="":        
+                nline=nline+a+",";
+        #print nline;
+
+    '''
+    print hitcout;
+    for line in nohits:
+        print line;
+    print len(hitmatchs);
+    for line in hitmatchs:
+        print line;
+    '''
+
+    for line in anames:
+        if line not in symbols:
+            print line;
+
+def processCircle3():
+    afiles=[];
+    anames=[];
+    walk_files(getCur()+"flag_circle",afiles);
+    for line in afiles:
+        n=line.encode("gb2312").split(r"/");
+        anames.append(n[len(n)-1]);        
+
+    f=open(getCur()+"coin_sections.json","r")
+    symbols=[];
+    print "";
+    print "not in 261";
+    cou=0;
+    for line in f:
+        arr=line.encode("gb2312").split(",")
+        if len(arr)<4:
+            continue;        
+        na="";
+        if  len(arr[3])==3:
+            na=arr[2][1:-1].lower();
+        elif len(arr[3])>3:
+            na=arr[3][1:-1].lower();
+        else:
+            print arr[2][1:-1].lower();
+            cmd="copy "+getCur()+"flag_sections/"+arr[2][1:-1]+" "+getCur()+"tocheck/"+arr[2][1:-1];
+            print cmd;
+            #os.system(cmd.replace("/","\\"));            
+        if len(na)>1 and na not in symbols:
+            symbols.append(na);
+        else:
+            cou=cou+1;
+    print cou;
+
+    print "";
+    print "not in 297";
+    cou=0;
+    for line in anames:
+        if line not in symbols:
+            print line;
+            cmd="copy "+getCur()+"flag_circle/"+line+" "+getCur()+"tocheck/"+line;
+            print cmd;
+            #os.system(cmd.replace("/","\\"));
+            cou=cou+1;
+    print cou;
+    f.close();
+
+
+
+def processReOrder():
+    f=open(getCur()+"coin_sections.json","r")
+    idx=0;
+    for line in f:
+        arr=line.encode("gb2312").split(",")
+        if len(arr)<3:
+            continue;
+        nline="["+str(idx)+",";
+        idx1=0;
+        for a in arr:
+            if idx1==0:
+                idx1=idx1+1;
+                continue;
+            if len(a)>1:
+                nline=nline+a+",";
+            idx1=idx1+1;
+
+        print nline;
+        idx=idx+1;
+    f.close();
+
+
 
 if __name__ == '__main__':
     reload(sys) 
@@ -130,15 +300,29 @@ if __name__ == '__main__':
     print ""
     print __file__,__name__
     print ""
-
-    #processSymbols();
-    processFlags();
+    #half autohand process
     
+    #processSymbols();
+    #processFlags();
+    #processCircle();
+    #processCircle2();
+    processCircle3();
+    #os.system('copy d:/World/TheFlags-CurrencySymbols/flag_circle/wallis-amp-futuna.png d:/World/TheFlags-CurrencySymbols/tocheck/wallis-amp-futuna.png');
+    #processReOrder();
+    
+
+    '''
+    n1="aland-islands.png";
+    n2="Aland.png"
+    n11=n1.lower()[:-3];
+    n22=n2.lower()[:-3];
+    if n11.find(n22)>=0 or n22.find(n11)>=0:
+            print "True";    
     print getCur();
     #a=u'[0,"","lt","Abkhazia.png","阿伯卡茨共和国","Abkhazia","","",""],'.split(",");
     a=u'[18,"","three-h-pure","Austria.png","奥地利","Austria","Austria_s_Euro.png","欧洲","coin_ouyuan","coin_aodilixianling"],'.split(",");
     print(len(a));
     for line in a:        
         print line;
-
-    #half autohand process
+    '''
+    
