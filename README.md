@@ -4,6 +4,8 @@ some data of json is come from my personal project TheCoin or TheSingle，The Ar
 provide the single picture or the atlas plist big compound picture <br/>
 the python code is for checking the symbols and the flags.<br/>
 wish or dream one day, the product can cover all the section of there, this is a big wish and a big dream.<br/>
+the circle version is from emoji, combine it <br/>
+todo:check the confict and check the blind know of the world<br/>
 <br/>
 for some reason, i am seeking job now,  if you intersting<br/>
 <br/>
