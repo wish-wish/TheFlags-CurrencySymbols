@@ -1,5 +1,5 @@
 # TheFlags-Currency
-TheSectionFlags, totals 297 flags and TheCurrencySymbol total 201 symbals, for cocos and for unity too, add easy remember tag compare flags for humanid reading and distinguish.<br/>
+TheSectionFlags, totals 299 flags and TheCurrencySymbol total 201 symbals, for cocos and for unity too, add easy remember tag compare flags for humanid reading and distinguish.<br/>
 some data of json is come from my personal project TheCoin or TheSingle，The Art Content is from searchengine and manage<br/>
 provide the single picture or the atlas plist big compound picture <br/>
 the python code is for checking the symbols and the flags.<br/>
