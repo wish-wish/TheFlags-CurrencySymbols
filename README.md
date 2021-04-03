@@ -19,7 +19,7 @@ donate me/赞助
     <div class="left">微信wechat<br/><img src="doc/cc_wx.png" height="150" width="148" /></div>
     <div class="left">支付宝alipay<br/><img src="doc/cc_zfb.png" height="150" width="148" /></div>
     <div class="left"><br/>多多少少都可以，谢谢！more or less，one cent is begin.</div>    
-    <div class="left"><img src="doc/heart1.png" height="120" width="140" /></div>
+    <div class="left"><img src="doc/heart2.png" height="120" width="140" /></div>
     <!--div>
         <br/>工作时间 <br/> 周一至周五 ：8:30-17:30 <br/> 周六至周日 ：9:30-16:00 <br/> 联系方式 <br/> 林先生：13061660452 <br/> QQ：45030013 <br/> mail：45030013@qq.com <br/> 备案：沪ICP备16041167 <br/>
     </div-->
