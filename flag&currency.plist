@@ -7,7 +7,7 @@
             <key>Abkhazia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{735,88},{168,99}}</string>
+                <string>{{1313,88},{168,99}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -20,7 +20,7 @@
             <key>Adygea.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{905,103},{167,99}}</string>
+                <string>{{1483,103},{167,99}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -33,7 +33,7 @@
             <key>Afghanistan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1666,1862},{145,91}}</string>
+                <string>{{1424,2015},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -46,7 +46,7 @@
             <key>Afghanistan_s_Afghani.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{280,3365},{90,90}}</string>
+                <string>{{2,3555},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -72,7 +72,7 @@
             <key>Ajaria.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1076,101},{167,99}}</string>
+                <string>{{1823,2},{167,99}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -85,11 +85,11 @@
             <key>Aland.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{340,656},{165,99}}</string>
+                <string>{{1769,799},{165,99}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{165,99}}</string>
                 <key>sourceSize</key>
@@ -98,7 +98,7 @@
             <key>Albania.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1044,895},{146,92}}</string>
+                <string>{{1235,1079},{146,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -111,7 +111,7 @@
             <key>Albania_s_lek.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1959,1969},{87,92}}</string>
+                <string>{{840,357},{87,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -124,7 +124,7 @@
             <key>Alderney.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{340,489},{165,99}}</string>
+                <string>{{1942,667},{165,99}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -137,7 +137,7 @@
             <key>Algeria.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1516,2181},{144,90}}</string>
+                <string>{{1570,2290},{144,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -150,7 +150,7 @@
             <key>Algeria_s_Dinar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{188,3197},{90,91}}</string>
+                <string>{{95,3366},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -163,7 +163,7 @@
             <key>Altai_Republic.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{906,2},{168,99}}</string>
+                <string>{{1484,2},{168,99}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -176,7 +176,7 @@
             <key>American_Samoa.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1246,2},{167,99}}</string>
+                <string>{{1654,2},{167,99}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -189,7 +189,7 @@
             <key>Andorra.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{298,1288},{145,92}}</string>
+                <string>{{781,1443},{145,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -202,7 +202,7 @@
             <key>Andorra_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1368,2267},{91,92}}</string>
+                <string>{{443,2555},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -215,7 +215,7 @@
             <key>Angola.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1268,1262},{146,91}}</string>
+                <string>{{1827,1334},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -228,7 +228,7 @@
             <key>Angola_s_kwanza.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,3484},{89,90}}</string>
+                <string>{{1946,3181},{89,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -241,7 +241,7 @@
             <key>Anguilla.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1922,170},{165,99}}</string>
+                <string>{{1944,500},{165,99}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -251,10 +251,23 @@
                 <key>sourceSize</key>
                 <string>{165,99}</string>
             </dict>
+            <key>Antarctica.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{340,767},{166,99}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{166,99}}</string>
+                <key>sourceSize</key>
+                <string>{166,99}</string>
+            </dict>
             <key>Antigua_and_Barbuda.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1120,1254},{146,91}}</string>
+                <string>{{2,1617},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -267,7 +280,7 @@
             <key>Antigua_and_Barbuda_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{670,2653},{91,91}}</string>
+                <string>{{964,2832},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -280,7 +293,7 @@
             <key>Argentina.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{972,1175},{146,91}}</string>
+                <string>{{150,1611},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -293,7 +306,7 @@
             <key>Argentina_s_Peso.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{373,3307},{90,90}}</string>
+                <string>{{94,3550},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -306,7 +319,7 @@
             <key>Armenia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1074,2271},{145,90}}</string>
+                <string>{{979,2380},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -319,7 +332,7 @@
             <key>Armenia_s_dram.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{817,2647},{91,91}}</string>
+                <string>{{1111,2744},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -332,7 +345,7 @@
             <key>Aruba.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{392,1796},{146,90}}</string>
+                <string>{{298,1820},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -345,7 +358,7 @@
             <key>Aruba_s_Guilder.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{468,2921},{91,90}}</string>
+                <string>{{374,3100},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -358,7 +371,7 @@
             <key>Australia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1226,1631},{146,84}}</string>
+                <string>{{1151,1820},{146,84}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -371,7 +384,7 @@
             <key>Australia_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{296,2458},{91,92}}</string>
+                <string>{{590,2545},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -384,7 +397,7 @@
             <key>Austria.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{824,1175},{146,91}}</string>
+                <string>{{298,1543},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -397,7 +410,7 @@
             <key>Austria_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1744,2337},{90,92}}</string>
+                <string>{{1704,2442},{90,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -410,7 +423,7 @@
             <key>Azerbaijan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{634,1720},{146,90}}</string>
+                <string>{{446,1816},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -423,7 +436,7 @@
             <key>Azerbaijan_s_New_Manat.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{466,3289},{90,90}}</string>
+                <string>{{187,3481},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -436,7 +449,7 @@
             <key>Bahamas.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1815,1784},{145,91}}</string>
+                <string>{{1572,2013},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -449,7 +462,7 @@
             <key>Bahamas_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{281,3181},{90,91}}</string>
+                <string>{{188,3297},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -462,7 +475,7 @@
             <key>Bahrain.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{392,1335},{146,91}}</string>
+                <string>{{446,1539},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -475,7 +488,7 @@
             <key>Bahrain_s_Dinar_BHD.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{559,3206},{90,90}}</string>
+                <string>{{280,3478},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -488,7 +501,7 @@
             <key>Bangladensh.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1915},{146,89}}</string>
+                <string>{{2,1894},{146,89}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -501,7 +514,7 @@
             <key>Bangladensh_s_Taka.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{911,2641},{91,91}}</string>
+                <string>{{1205,2663},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -514,7 +527,7 @@
             <key>Barbados.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1663,2139},{144,90}}</string>
+                <string>{{1718,2258},{144,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -527,7 +540,7 @@
             <key>Barbados_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{537,2384},{91,92}}</string>
+                <string>{{737,2520},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -540,7 +553,7 @@
             <key>Bashkortostan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1753,2},{167,98}}</string>
+                <string>{{1099,294},{167,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -553,7 +566,7 @@
             <key>Belarus.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{636,398},{165,92}}</string>
+                <string>{{823,982},{165,92}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -566,7 +579,7 @@
             <key>Belarus_s_Ruble.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1315,2360},{89,92}}</string>
+                <string>{{1904,2446},{89,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -579,7 +592,7 @@
             <key>Belgium.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2285},{145,91}}</string>
+                <string>{{1761,1981},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -592,7 +605,7 @@
             <key>Belgium_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{374,3123},{90,91}}</string>
+                <string>{{281,3294},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -605,7 +618,7 @@
             <key>Belize.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{782,1636},{146,90}}</string>
+                <string>{{594,1806},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -618,7 +631,7 @@
             <key>Belize_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{652,3200},{90,90}}</string>
+                <string>{{373,3468},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -631,7 +644,7 @@
             <key>Benin.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{149,2212},{145,91}}</string>
+                <string>{{2,2264},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -644,7 +657,7 @@
             <key>Benin_s_Franc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{614,2838},{91,90}}</string>
+                <string>{{468,3075},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -657,7 +670,7 @@
             <key>Bermuda.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1221,2180},{145,90}}</string>
+                <string>{{1127,2369},{145,90}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -670,7 +683,7 @@
             <key>Bermuda_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{761,2832},{91,90}}</string>
+                <string>{{562,3062},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -683,7 +696,7 @@
             <key>Bhutan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1454},{146,91}}</string>
+                <string>{{613,1529},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -696,7 +709,7 @@
             <key>Bhutan_s_ngultrum.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{856,2826},{91,90}}</string>
+                <string>{{708,3027},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -709,7 +722,7 @@
             <key>Bikini_Atoll.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{477,163},{168,98}}</string>
+                <string>{{1131,94},{168,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -722,7 +735,7 @@
             <key>Bolivia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1369,2175},{145,90}}</string>
+                <string>{{1275,2281},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -735,7 +748,7 @@
             <key>Bolivia_s_Boliviano.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1003,2825},{91,90}}</string>
+                <string>{{855,3017},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -748,7 +761,7 @@
             <key>Bosnia_and_Herzegovina.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1819,1599},{146,90}}</string>
+                <string>{{836,1768},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -761,7 +774,7 @@
             <key>Bosnia_and_Herzegovina_Federation.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1584,2},{167,98}}</string>
+                <string>{{1269,289},{167,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -774,7 +787,7 @@
             <key>Bosnia_and_Herzegovina_s_Marka.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1058,2640},{91,91}}</string>
+                <string>{{1352,2660},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -787,7 +800,7 @@
             <key>Botswana.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1078,1623},{146,90}}</string>
+                <string>{{1003,1732},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -800,7 +813,7 @@
             <key>Botswana_s_Pula.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1205,2637},{91,91}}</string>
+                <string>{{1686,2633},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -813,7 +826,7 @@
             <key>Brazil.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{150,1381},{146,91}}</string>
+                <string>{{895,1399},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -826,11 +839,11 @@
             <key>Brazil_s_Real.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1167,2364},{88,92}}</string>
+                <string>{{840,263},{88,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{88,92}}</string>
                 <key>sourceSize</key>
@@ -839,11 +852,11 @@
             <key>British_Antarctic_Territory.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{340,823},{165,98}}</string>
+                <string>{{1088,890},{165,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{165,98}}</string>
                 <key>sourceSize</key>
@@ -852,7 +865,7 @@
             <key>British_Indian_Ocean_Territory.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1415,2},{167,98}}</string>
+                <string>{{1470,204},{167,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -865,7 +878,7 @@
             <key>Brittany.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1076,2},{168,97}}</string>
+                <string>{{930,134},{168,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -878,7 +891,7 @@
             <key>Brunei.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1213,881},{146,92}}</string>
+                <string>{{1403,1078},{146,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -891,7 +904,7 @@
             <key>Brunei_s_Darussalam_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1650,2323},{90,92}}</string>
+                <string>{{1810,2355},{90,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -904,7 +917,7 @@
             <key>Bulgaria.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{390,2167},{145,91}}</string>
+                <string>{{149,2258},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -917,7 +930,7 @@
             <key>Bulgaria_s_lev.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{94,3411},{90,89}}</string>
+                <string>{{1946,3090},{90,89}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -930,7 +943,7 @@
             <key>Burkina.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1361},{146,91}}</string>
+                <string>{{1043,1363},{146,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -943,7 +956,7 @@
             <key>Burkina_s_Franc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{745,3194},{90,90}}</string>
+                <string>{{466,3443},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -956,7 +969,7 @@
             <key>Burma.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{633,2091},{145,91}}</string>
+                <string>{{296,2191},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -969,7 +982,7 @@
             <key>Burma_s_Kyat.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1556,2273},{90,92}}</string>
+                <string>{{2,2726},{90,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -982,7 +995,7 @@
             <key>Burundi.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{780,2007},{145,91}}</string>
+                <string>{{443,2187},{145,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -995,7 +1008,7 @@
             <key>Burundi_s_Franc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{839,3193},{90,90}}</string>
+                <string>{{559,3430},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1008,7 +1021,7 @@
             <key>Buryatia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1046,697},{166,97}}</string>
+                <string>{{170,1134},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1021,7 +1034,7 @@
             <key>Cabon.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1516,2089},{145,90}}</string>
+                <string>{{1423,2200},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1034,7 +1047,7 @@
             <key>Cabon_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1097,2822},{91,90}}</string>
+                <string>{{1003,2929},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1047,7 +1060,7 @@
             <key>Cameroon.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{150,1288},{146,91}}</string>
+                <string>{{1211,1359},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1060,7 +1073,7 @@
             <key>Cameroon_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{985,3190},{90,90}}</string>
+                <string>{{652,3395},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1073,7 +1086,7 @@
             <key>Canada.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1860,1414},{146,91}}</string>
+                <string>{{1361,1358},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1086,7 +1099,7 @@
             <key>Canada_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1244,2736},{91,90}}</string>
+                <string>{{1150,2848},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -1099,7 +1112,7 @@
             <key>Cape_Verde.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{928,2001},{145,91}}</string>
+                <string>{{591,2177},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1112,7 +1125,7 @@
             <key>Cape_Verde_s_escudo.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{467,3105},{90,91}}</string>
+                <string>{{374,3284},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1125,7 +1138,7 @@
             <key>Cayman_Islands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1226,1539},{146,90}}</string>
+                <string>{{2,1802},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1138,7 +1151,7 @@
             <key>Cayman_Islands_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1912,2526},{91,90}}</string>
+                <string>{{1297,2845},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1151,7 +1164,7 @@
             <key>Central_African_Republic.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1664,2047},{145,90}}</string>
+                <string>{{1571,2198},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1164,7 +1177,7 @@
             <key>Central_African_Republic_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1224,3104},{90,90}}</string>
+                <string>{{745,3385},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1177,7 +1190,7 @@
             <key>Chad.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1075,1994},{145,91}}</string>
+                <string>{{834,2139},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1190,7 +1203,7 @@
             <key>Chad_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1132,3104},{90,90}}</string>
+                <string>{{839,3297},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -1203,7 +1216,7 @@
             <key>Chechen_Republic.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,783},{167,97}}</string>
+                <string>{{340,570},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1216,7 +1229,7 @@
             <key>Chechen_Republic_of_Ichkeria.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{171,719},{167,97}}</string>
+                <string>{{2,633},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1229,7 +1242,7 @@
             <key>Chile.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1712,1399},{146,91}}</string>
+                <string>{{1509,1276},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1242,7 +1255,7 @@
             <key>Chile_s_Peso.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1819,2526},{91,90}}</string>
+                <string>{{1391,2844},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1255,7 +1268,7 @@
             <key>China.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1223,1903},{145,91}}</string>
+                <string>{{982,2103},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1268,7 +1281,7 @@
             <key>China_s_Yuan_Renminbi.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1484,2693},{91,90}}</string>
+                <string>{{1538,2812},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1281,7 +1294,7 @@
             <key>Christmas_Island.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1750,300},{167,96}}</string>
+                <string>{{171,738},{167,96}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1294,7 +1307,7 @@
             <key>Chuvashia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1581,300},{167,96}}</string>
+                <string>{{340,669},{167,96}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1304,10 +1317,23 @@
                 <key>sourceSize</key>
                 <string>{167,96}</string>
             </dict>
+            <key>Cocos_Keeling_Islands.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{735,2},{198,128}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{198,128}}</string>
+                <key>sourceSize</key>
+                <string>{198,128}</string>
+            </dict>
             <key>Colombia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{393,1242},{146,91}}</string>
+                <string>{{1679,1274},{146,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -1320,7 +1346,7 @@
             <key>Colombia_s_Peso.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1319,3061},{90,90}}</string>
+                <string>{{933,3216},{90,90}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -1333,7 +1359,7 @@
             <key>Comoros.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1381,796},{146,92}}</string>
+                <string>{{1571,996},{146,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1346,7 +1372,7 @@
             <key>Comoros_s_franc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1632,2614},{91,90}}</string>
+                <string>{{1631,2726},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -1359,7 +1385,7 @@
             <key>Cook_Islands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{709,784},{166,96}}</string>
+                <string>{{1601,799},{166,96}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1372,7 +1398,7 @@
             <key>Costa_Rica.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1549,791},{146,92}}</string>
+                <string>{{1757,994},{146,92}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -1385,7 +1411,7 @@
             <key>Costa_Rica_s_Colon.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1227,3012},{90,90}}</string>
+                <string>{{1079,3213},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1398,7 +1424,7 @@
             <key>Cote_Dlvoire.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,882},{167,96}}</string>
+                <string>{{2,732},{167,96}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1411,7 +1437,7 @@
             <key>Crimea.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{171,818},{167,96}}</string>
+                <string>{{171,640},{167,96}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1424,7 +1450,7 @@
             <key>Croatia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1371,1898},{145,91}}</string>
+                <string>{{1130,2092},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1437,7 +1463,7 @@
             <key>Croatia_s_Kuna.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1446,2551},{91,91}}</string>
+                <string>{{1593,2627},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1450,7 +1476,7 @@
             <key>Cyprus.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{541,1213},{145,92}}</string>
+                <string>{{801,1296},{145,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1463,7 +1489,7 @@
             <key>Cyprus_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{296,2365},{91,92}}</string>
+                <string>{{831,2507},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1476,7 +1502,7 @@
             <key>Czech_Republic.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1932,1267},{145,92}}</string>
+                <string>{{1905,1001},{145,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1489,7 +1515,7 @@
             <key>Czech_Republic_s_Koruna.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1353,2551},{91,91}}</string>
+                <string>{{1500,2567},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -1502,7 +1528,7 @@
             <key>Dagestan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{878,699},{166,96}}</string>
+                <string>{{2,1141},{166,96}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1515,7 +1541,7 @@
             <key>Democratic_Republic_of_the_Congo.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1671,1584},{146,90}}</string>
+                <string>{{150,1796},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1528,7 +1554,7 @@
             <key>Democratic_Republic_of_the_Congo_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{560,3022},{90,91}}</string>
+                <string>{{467,3259},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1541,7 +1567,7 @@
             <key>Denmark.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1812,1969},{145,90}}</string>
+                <string>{{1718,2166},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1554,7 +1580,7 @@
             <key>Denmark_s_Krone.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1540,2508},{91,91}}</string>
+                <string>{{2,2911},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1567,7 +1593,7 @@
             <key>Djibouti.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1697,697},{146,92}}</string>
+                <string>{{1757,900},{146,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1580,7 +1606,7 @@
             <key>Djibouti_s_Franc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{537,2291},{91,92}}</string>
+                <string>{{978,2472},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1593,7 +1619,7 @@
             <key>Dominica.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1564,1349},{146,91}}</string>
+                <string>{{1847,1241},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1606,7 +1632,7 @@
             <key>Dominica_s_East_Caribbean_dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1462,2273},{90,92}}</string>
+                <string>{{96,2720},{90,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1619,7 +1645,7 @@
             <key>Dominican_Republic.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2470},{145,90}}</string>
+                <string>{{1866,2079},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1632,7 +1658,7 @@
             <key>Dominican_Republic_s_Peso.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,3392},{90,90}}</string>
+                <string>{{1226,3212},{90,90}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -1645,7 +1671,7 @@
             <key>EI_Salvador.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1523,1534},{146,90}}</string>
+                <string>{{298,1728},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1658,7 +1684,7 @@
             <key>EI_Salvador_s_dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1447,2458},{91,91}}</string>
+                <string>{{95,2905},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1671,7 +1697,7 @@
             <key>East_Timor.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1549,697},{146,92}}</string>
+                <string>{{917,1026},{146,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1684,7 +1710,7 @@
             <key>East_Timor_s_dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{654,3016},{90,91}}</string>
+                <string>{{560,3246},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1697,7 +1723,7 @@
             <key>Easter_Island_Rapa_Nui.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{441,562},{167,97}}</string>
+                <string>{{171,541},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1710,7 +1736,7 @@
             <key>Ecuador.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{149,2397},{145,90}}</string>
+                <string>{{2,2449},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1723,7 +1749,7 @@
             <key>Ecuador_s_dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1726,2526},{91,90}}</string>
+                <string>{{1779,2723},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1736,7 +1762,7 @@
             <key>Egypt.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1416,1257},{146,91}}</string>
+                <string>{{895,1306},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1749,7 +1775,7 @@
             <key>Egypt_s_Egyptian_pound.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1391,2644},{91,90}}</string>
+                <string>{{2,3096},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1762,7 +1788,7 @@
             <key>England.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,684},{167,97}}</string>
+                <string>{{669,561},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1775,7 +1801,7 @@
             <key>Equatorial_Guinea.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1375,1534},{146,90}}</string>
+                <string>{{446,1724},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1788,7 +1814,7 @@
             <key>Equatorial_Guinea_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,3025},{91,90}}</string>
+                <string>{{95,3090},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1801,7 +1827,7 @@
             <key>Eritrea.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1268,1169},{146,91}}</string>
+                <string>{{1063,1270},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1814,7 +1840,7 @@
             <key>Eritrea_s_Nakfa.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{800,3010},{90,91}}</string>
+                <string>{{654,3211},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1827,7 +1853,7 @@
             <key>Estonia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{930,1544},{146,90}}</string>
+                <string>{{594,1714},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1840,7 +1866,7 @@
             <key>Estonia_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{296,2272},{91,92}}</string>
+                <string>{{1126,2461},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1853,7 +1879,7 @@
             <key>Ethiopia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1267},{146,92}}</string>
+                <string>{{1087,990},{146,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1866,7 +1892,7 @@
             <key>Ethiopia_s_birr.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2840},{91,91}}</string>
+                <string>{{189,2836},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1879,7 +1905,7 @@
             <key>European_Union.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{171,620},{167,97}}</string>
+                <string>{{353,471},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1892,11 +1918,11 @@
             <key>Falkland_Islands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1906,673},{166,97}}</string>
+                <string>{{338,1066},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{166,97}}</string>
                 <key>sourceSize</key>
@@ -1905,7 +1931,7 @@
             <key>Faroe_Islands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1738,598},{166,97}}</string>
+                <string>{{655,959},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1918,11 +1944,11 @@
             <key>Fiji.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1374,1626},{146,84}}</string>
+                <string>{{834,686},{146,84}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,1},{146,84}}</string>
                 <key>sourceSize</key>
@@ -1931,7 +1957,7 @@
             <key>Fiji_s_Fijian_dolar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{947,3009},{90,91}}</string>
+                <string>{{748,3201},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1944,7 +1970,7 @@
             <key>Finland.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{390,2352},{145,90}}</string>
+                <string>{{149,2443},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1957,7 +1983,7 @@
             <key>Finland_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1042,3006},{90,91}}</string>
+                <string>{{894,3113},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1970,7 +1996,7 @@
             <key>France.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1823},{146,90}}</string>
+                <string>{{855,1676},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1983,7 +2009,7 @@
             <key>France_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{95,2767},{91,91}}</string>
+                <string>{{283,2833},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1993,10 +2019,23 @@
                 <key>sourceSize</key>
                 <string>{91,91}</string>
             </dict>
+            <key>French_Guiana.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{232,321},{180,119}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,119}}</string>
+                <key>sourceSize</key>
+                <string>{180,119}</string>
+            </dict>
             <key>French_Polynesia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,585},{167,97}}</string>
+                <string>{{2,534},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2009,7 +2048,7 @@
             <key>French_Southern_and_Antarctic_Lands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{171,521},{167,97}}</string>
+                <string>{{184,442},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2022,7 +2061,7 @@
             <key>Gabon.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{467,463},{167,97}}</string>
+                <string>{{669,462},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2035,7 +2074,7 @@
             <key>Gambia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{631,2276},{145,90}}</string>
+                <string>{{296,2376},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2048,7 +2087,7 @@
             <key>Gambia_s_Dalasi.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{95,2952},{91,90}}</string>
+                <string>{{188,3021},{91,90}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -2061,7 +2100,7 @@
             <key>Gambodia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{779,2192},{145,90}}</string>
+                <string>{{443,2372},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2074,7 +2113,7 @@
             <key>Gambodia_s_Riel.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{189,2736},{91,91}}</string>
+                <string>{{429,2823},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2100,7 +2139,7 @@
             <key>Georgia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{150,1750},{146,90}}</string>
+                <string>{{2,1710},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2113,7 +2152,7 @@
             <key>Georgia_s_lari.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1282,2920},{90,91}}</string>
+                <string>{{1041,3032},{90,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -2126,7 +2165,7 @@
             <key>Germany.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1120,1161},{146,91}}</string>
+                <string>{{1213,1266},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2139,7 +2178,7 @@
             <key>Germany_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{95,3319},{90,90}}</string>
+                <string>{{1374,3180},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -2152,7 +2191,7 @@
             <key>Ghana.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{972,1082},{146,91}}</string>
+                <string>{{1361,1265},{146,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -2165,7 +2204,7 @@
             <key>Ghana_s_cedi.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{188,2921},{91,90}}</string>
+                <string>{{281,3018},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2178,7 +2217,7 @@
             <key>Gibraltar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{733,388},{167,97}}</string>
+                <string>{{414,372},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2191,7 +2230,7 @@
             <key>Greece.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1519,1812},{145,91}}</string>
+                <string>{{1277,2004},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2204,7 +2243,7 @@
             <key>Greece_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{335,2720},{91,91}}</string>
+                <string>{{576,2798},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2217,7 +2256,7 @@
             <key>Greenland.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1570,598},{166,97}}</string>
+                <string>{{2,1042},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2230,7 +2269,7 @@
             <key>Grenada.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1668,1769},{145,91}}</string>
+                <string>{{1425,1922},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2243,7 +2282,7 @@
             <key>Grenada_s_East_Caribbean_dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1189,2920},{90,91}}</string>
+                <string>{{1189,3029},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2269,7 +2308,7 @@
             <key>Guam.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1402,598},{166,97}}</string>
+                <string>{{170,1035},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2282,7 +2321,7 @@
             <key>Guatemala.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{392,1704},{146,90}}</string>
+                <string>{{150,1704},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2295,7 +2334,7 @@
             <key>Guatemala_s_quetzal.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{281,2905},{91,90}}</string>
+                <string>{{375,3008},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2308,7 +2347,7 @@
             <key>Guba.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{927,2186},{145,90}}</string>
+                <string>{{590,2362},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2321,7 +2360,7 @@
             <key>Guba_s_Peso.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{375,2847},{91,90}}</string>
+                <string>{{469,2983},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2334,7 +2373,7 @@
             <key>Guernsey.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1234,598},{166,97}}</string>
+                <string>{{338,967},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2360,7 +2399,7 @@
             <key>Guinea.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1816,1691},{145,91}}</string>
+                <string>{{2,2171},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2373,7 +2412,7 @@
             <key>Guinea_Bissau.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{150,1194},{146,92}}</string>
+                <string>{{1255,985},{146,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2386,7 +2425,7 @@
             <key>Guinea_Bissau_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1376,2877},{90,91}}</string>
+                <string>{{1336,3028},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2399,7 +2438,7 @@
             <key>Guinea_s_Guinean_franc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1944,2249},{90,92}}</string>
+                <string>{{242,2651},{90,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2412,7 +2451,7 @@
             <key>Guyana.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{676,1167},{146,91}}</string>
+                <string>{{1531,1183},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2425,7 +2464,7 @@
             <key>Guyana_s_Guyanese_dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1850,2249},{90,92}}</string>
+                <string>{{389,2648},{90,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2438,7 +2477,7 @@
             <key>Haiti.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{634,1628},{146,90}}</string>
+                <string>{{298,1636},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2451,7 +2490,7 @@
             <key>Haiti_s_gourde.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1523,2798},{90,91}}</string>
+                <string>{{1483,2996},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2464,11 +2503,11 @@
             <key>Herm.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1915,505},{166,98}}</string>
+                <string>{{1774,600},{166,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{166,98}}</string>
                 <key>sourceSize</key>
@@ -2477,7 +2516,7 @@
             <key>Honduras.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2192},{145,91}}</string>
+                <string>{{149,2165},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2490,7 +2529,7 @@
             <key>Honduras_s_lempira.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{188,3289},{90,90}}</string>
+                <string>{{1521,3094},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -2503,7 +2542,7 @@
             <key>Hong_Kong.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{440,859},{166,97}}</string>
+                <string>{{657,860},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2516,7 +2555,7 @@
             <key>Hungary.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{149,2119},{145,91}}</string>
+                <string>{{296,2098},{145,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -2529,7 +2568,7 @@
             <key>Hungary_s_Forint.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{521,2829},{91,90}}</string>
+                <string>{{615,2970},{91,90}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -2542,7 +2581,7 @@
             <key>Iceland.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{824,1082},{146,91}}</string>
+                <string>{{1699,1181},{146,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -2555,7 +2594,7 @@
             <key>Iceland_s_Krona.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1670,2710},{90,91}}</string>
+                <string>{{1577,2910},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2568,7 +2607,7 @@
             <key>India.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{390,2444},{145,89}}</string>
+                <string>{{296,2468},{145,89}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2581,7 +2620,7 @@
             <key>India_s_Rupee.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1756,2245},{90,92}}</string>
+                <string>{{537,2638},{90,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2594,7 +2633,7 @@
             <key>Indonesia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{391,2074},{145,91}}</string>
+                <string>{{444,2094},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2607,7 +2646,7 @@
             <key>Indonesia_s_Rupiah_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{281,3273},{90,90}}</string>
+                <string>{{1668,3091},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -2620,7 +2659,7 @@
             <key>Ingushetia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1747,498},{166,98}}</string>
+                <string>{{1097,592},{166,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2633,7 +2672,7 @@
             <key>Iran.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1743,1306},{146,91}}</string>
+                <string>{{1867,1148},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2646,7 +2685,7 @@
             <key>Iran_s_Rial.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{482,2662},{91,91}}</string>
+                <string>{{724,2785},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2659,7 +2698,7 @@
             <key>Iraq.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{633,1998},{145,91}}</string>
+                <string>{{592,2084},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2672,7 +2711,7 @@
             <key>Iraq_s_dinar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1283,2828},{90,91}}</string>
+                <string>{{1724,2907},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2685,7 +2724,7 @@
             <key>Ireland.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{631,2368},{145,89}}</string>
+                <string>{{443,2464},{145,89}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2698,7 +2737,7 @@
             <key>Ireland_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{374,3215},{90,90}}</string>
+                <string>{{1762,3090},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -2711,11 +2750,11 @@
             <key>Isle_of_Man.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{299,1140},{146,92}}</string>
+                <string>{{1423,984},{146,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{146,92}}</string>
                 <key>sourceSize</key>
@@ -2724,7 +2763,7 @@
             <key>Isle_of_Man_s_Pound.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,3209},{90,91}}</string>
+                <string>{{1910,2815},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2737,7 +2776,7 @@
             <key>Isreal.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{781,1914},{145,91}}</string>
+                <string>{{835,2046},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2750,7 +2789,7 @@
             <key>Isreal_s_Shekel.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{577,2644},{91,91}}</string>
+                <string>{{871,2750},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2763,7 +2802,7 @@
             <key>Italy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{782,1544},{146,90}}</string>
+                <string>{{446,1632},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2776,7 +2815,7 @@
             <key>Italy_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{467,3197},{90,90}}</string>
+                <string>{{2,3463},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2789,7 +2828,7 @@
             <key>Ivory_Coast.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1819,1507},{146,90}}</string>
+                <string>{{594,1622},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2802,7 +2841,7 @@
             <key>Ivory_Coast_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{537,2198},{91,92}}</string>
+                <string>{{1274,2373},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,1}</string>
                 <key>rotated</key>
@@ -2815,7 +2854,7 @@
             <key>Jamaica.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1074,2179},{145,90}}</string>
+                <string>{{832,2324},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2828,7 +2867,7 @@
             <key>Jamaica_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1662,2231},{90,92}}</string>
+                <string>{{684,2613},{90,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2841,7 +2880,7 @@
             <key>Japan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1222,2088},{145,90}}</string>
+                <string>{{980,2288},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2854,7 +2893,7 @@
             <key>Japan_s_Yen.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{95,3136},{90,91}}</string>
+                <string>{{1817,2815},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2867,7 +2906,7 @@
             <key>Jersey.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{928,1908},{145,91}}</string>
+                <string>{{983,2010},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2880,7 +2919,7 @@
             <key>Jersey_s_Pound.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{560,3114},{90,90}}</string>
+                <string>{{95,3458},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2893,7 +2932,7 @@
             <key>Jordan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1595,1256},{146,91}}</string>
+                <string>{{2,1524},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2906,7 +2945,7 @@
             <key>Jordan_s_Dinar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{668,2746},{91,90}}</string>
+                <string>{{762,2935},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2919,7 +2958,7 @@
             <key>Kabardino_Balkaria.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,980},{166,97}}</string>
+                <string>{{920,828},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2932,7 +2971,7 @@
             <key>Kalmykia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1579,498},{166,98}}</string>
+                <string>{{1267,587},{166,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2945,7 +2984,7 @@
             <key>Karachay_Cherkessia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,485},{167,98}}</string>
+                <string>{{1652,203},{167,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2958,7 +2997,7 @@
             <key>Karakalpakstan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{902,303},{167,97}}</string>
+                <string>{{928,531},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2971,7 +3010,7 @@
             <key>Karelia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{171,916},{166,97}}</string>
+                <string>{{1088,791},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2984,7 +3023,7 @@
             <key>Kazakhstan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1447,1164},{146,91}}</string>
+                <string>{{150,1518},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -2997,7 +3036,7 @@
             <key>Kazakhstan_s_Tenge.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{763,2740},{91,90}}</string>
+                <string>{{910,2925},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -3010,7 +3049,7 @@
             <key>Kenya.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1299,1076},{146,91}}</string>
+                <string>{{298,1450},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3023,7 +3062,7 @@
             <key>Kenya_s_Shilling.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{296,2179},{91,92}}</string>
+                <string>{{1422,2292},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3036,7 +3075,7 @@
             <key>Khakassia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{441,760},{166,97}}</string>
+                <string>{{1260,786},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3049,7 +3088,7 @@
             <key>Kiribati.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1671,1492},{146,90}}</string>
+                <string>{{1319,1819},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3062,7 +3101,7 @@
             <key>Kiribati_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{188,3105},{90,91}}</string>
+                <string>{{2,3280},{90,91}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -3075,7 +3114,7 @@
             <key>Komi.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{710,685},{166,97}}</string>
+                <string>{{1771,700},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3088,7 +3127,7 @@
             <key>Korea-n.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1151,1068},{146,91}}</string>
+                <string>{{465,1446},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3101,7 +3140,7 @@
             <key>Korea-n_s_yuan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{281,3089},{90,91}}</string>
+                <string>{{95,3274},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3114,7 +3153,7 @@
             <key>Korea-s.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1003,989},{146,91}}</string>
+                <string>{{2,1431},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3127,7 +3166,7 @@
             <key>Korea-s_s_yuan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{653,3108},{90,90}}</string>
+                <string>{{188,3389},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3140,7 +3179,7 @@
             <key>Kosovo.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{878,600},{166,97}}</string>
+                <string>{{1433,701},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3153,7 +3192,7 @@
             <key>Kuban_Peoples_Republic.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1066,598},{166,97}}</string>
+                <string>{{1603,700},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3166,7 +3205,7 @@
             <key>Kuwait.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1076,1901},{145,91}}</string>
+                <string>{{1130,1999},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3179,7 +3218,7 @@
             <key>Kuwait_s_Dinar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{374,3031},{90,91}}</string>
+                <string>{{188,3205},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3192,7 +3231,7 @@
             <key>Kyrgyzstan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1224,1810},{145,91}}</string>
+                <string>{{1278,1911},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3205,7 +3244,7 @@
             <key>Kyrgyzstan_s_Som.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{747,3102},{90,90}}</string>
+                <string>{{281,3386},{90,90}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -3218,7 +3257,7 @@
             <key>Ladonia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1242,301},{167,97}}</string>
+                <string>{{1098,493},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3231,7 +3270,7 @@
             <key>Laos.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1369,2083},{145,90}}</string>
+                <string>{{1128,2277},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3244,7 +3283,7 @@
             <key>Laos_s_Kip.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{724,2560},{91,91}}</string>
+                <string>{{1018,2739},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3257,7 +3296,7 @@
             <key>Latvia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1523,1442},{146,90}}</string>
+                <string>{{1467,1737},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3270,7 +3309,7 @@
             <key>Latvia_s_Latt.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{467,3013},{90,91}}</string>
+                <string>{{281,3202},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3283,7 +3322,7 @@
             <key>Lebanon.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{676,1074},{146,91}}</string>
+                <string>{{150,1425},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3296,7 +3335,7 @@
             <key>Lebanon_s_Pound.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{910,2734},{91,90}}</string>
+                <string>{{1057,2837},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -3309,7 +3348,7 @@
             <key>Lesotho.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{855,989},{146,91}}</string>
+                <string>{{317,1357},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3322,7 +3361,7 @@
             <key>Lesotho_s_loti.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{561,2930},{90,91}}</string>
+                <string>{{374,3192},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3335,7 +3374,7 @@
             <key>Liberia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1078,1531},{146,90}}</string>
+                <string>{{1171,1728},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3348,7 +3387,7 @@
             <key>Liberia_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{540,1826},{92,91}}</string>
+                <string>{{740,2055},{92,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3361,7 +3400,7 @@
             <key>Libya.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1372,1805},{145,91}}</string>
+                <string>{{2,2078},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3374,7 +3413,7 @@
             <key>Libya_s_Dinar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1903,2157},{90,92}}</string>
+                <string>{{831,2600},{90,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3387,7 +3426,7 @@
             <key>Liechtenstein.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1227,1447},{146,90}}</string>
+                <string>{{1319,1727},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3400,7 +3439,7 @@
             <key>Liechtenstein_s_franc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{298,1807},{92,91}}</string>
+                <string>{{741,1962},{92,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3413,7 +3452,7 @@
             <key>Lithuania.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1784,1213},{146,91}}</string>
+                <string>{{633,1436},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3426,7 +3465,7 @@
             <key>Lithuania_s_Litas.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{538,2105},{91,92}}</string>
+                <string>{{737,2427},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3439,7 +3478,7 @@
             <key>Los_Altos.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1406,499},{166,97}}</string>
+                <string>{{2,943},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3452,7 +3491,7 @@
             <key>Luxembourg.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1521,1719},{145,91}}</string>
+                <string>{{149,2072},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,1}</string>
                 <key>rotated</key>
@@ -3465,7 +3504,7 @@
             <key>Luxembourg_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{540,1733},{92,91}}</string>
+                <string>{{1930,1800},{92,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3478,7 +3517,7 @@
             <key>Macau.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1238,499},{166,97}}</string>
+                <string>{{170,936},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3491,7 +3530,7 @@
             <key>Macedonia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1375,1442},{146,90}}</string>
+                <string>{{1023,1640},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3504,7 +3543,7 @@
             <key>Macedonia_s_Dinar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1004,2733},{91,90}}</string>
+                <string>{{1204,2756},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3517,7 +3556,7 @@
             <key>Madagascar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{930,1452},{146,90}}</string>
+                <string>{{1171,1636},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3530,7 +3569,7 @@
             <key>Madagascar_s_ariary.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{818,2554},{91,91}}</string>
+                <string>{{1112,2651},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3543,7 +3582,7 @@
             <key>Malawi.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1636,1163},{146,91}}</string>
+                <string>{{485,1353},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3556,7 +3595,7 @@
             <key>Malawi_s_kwacha.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{296,2086},{91,92}}</string>
+                <string>{{737,2334},{91,92}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -3569,7 +3608,7 @@
             <key>Malaysia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1669,1676},{145,91}}</string>
+                <string>{{297,2005},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3582,7 +3621,7 @@
             <key>Malaysia_s_Ringgit.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{537,2477},{92,90}}</string>
+                <string>{{1516,2382},{92,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3595,7 +3634,7 @@
             <key>Maldives.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1805,1120},{146,91}}</string>
+                <string>{{653,1343},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3608,7 +3647,7 @@
             <key>Maldives_s_rufiyaa.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{298,1714},{92,91}}</string>
+                <string>{{1931,1707},{92,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3621,7 +3660,7 @@
             <key>Mali.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1488,1071},{146,91}}</string>
+                <string>{{915,1213},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3634,7 +3673,7 @@
             <key>Mali_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{539,2012},{91,92}}</string>
+                <string>{{1908,1986},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3647,7 +3686,7 @@
             <key>Malta.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1517,1997},{145,90}}</string>
+                <string>{{1276,2189},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3660,7 +3699,7 @@
             <key>Malta_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1151,2730},{91,90}}</string>
+                <string>{{1298,2753},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3673,7 +3712,7 @@
             <key>Mari_EI.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{710,586},{166,97}}</string>
+                <string>{{338,868},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3686,7 +3725,7 @@
             <key>Marshall_Islands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1665,1955},{145,90}}</string>
+                <string>{{1424,2108},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3699,7 +3738,7 @@
             <key>Marshall_Islands_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{540,1640},{92,91}}</string>
+                <string>{{742,1869},{92,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3725,7 +3764,7 @@
             <key>Mauritania.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1731},{146,90}}</string>
+                <string>{{875,1584},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3738,7 +3777,7 @@
             <key>Mauritania_s_Ouguiya.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{965,2548},{91,91}}</string>
+                <string>{{1259,2570},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3751,7 +3790,7 @@
             <key>Mauritius.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{150,1658},{146,90}}</string>
+                <string>{{1023,1548},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -3764,7 +3803,7 @@
             <key>Mauritius_s_Rupee.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{631,2459},{92,90}}</string>
+                <string>{{1716,2350},{92,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -3774,10 +3813,23 @@
                 <key>sourceSize</key>
                 <string>{94,94}</string>
             </dict>
+            <key>Mayotte.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{935,2},{194,130}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{194,130}}</string>
+                <key>sourceSize</key>
+                <string>{194,130}</string>
+            </dict>
             <key>Mexico.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{392,1612},{146,90}}</string>
+                <string>{{1635,1735},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3790,7 +3842,7 @@
             <key>Mexico_s_Peso.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{298,1621},{92,91}}</string>
+                <string>{{742,1776},{92,91}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -3803,7 +3855,7 @@
             <key>Micronesia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{634,1536},{146,90}}</string>
+                <string>{{1783,1703},{146,90}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -3816,7 +3868,7 @@
             <key>Micronesia_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{778,2375},{92,90}}</string>
+                <string>{{1864,2263},{92,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3829,7 +3881,7 @@
             <key>Moldova.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2099},{145,91}}</string>
+                <string>{{445,2001},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3842,7 +3894,7 @@
             <key>Moldova_s_Leu.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1298,2644},{91,90}}</string>
+                <string>{{1445,2752},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3855,7 +3907,7 @@
             <key>Monaco.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{782,1452},{146,90}}</string>
+                <string>{{1487,1645},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3868,7 +3920,7 @@
             <key>Monaco_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1112,2547},{91,91}}</string>
+                <string>{{1407,2567},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3881,7 +3933,7 @@
             <key>Mongolia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{149,2026},{145,91}}</string>
+                <string>{{593,1991},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3894,7 +3946,7 @@
             <key>Mongolia_s_Tughrik.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{707,2924},{90,91}}</string>
+                <string>{{467,3167},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3907,7 +3959,7 @@
             <key>Montenegro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1639},{146,90}}</string>
+                <string>{{1635,1643},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3920,7 +3972,7 @@
             <key>Montenegro_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{854,2918},{90,91}}</string>
+                <string>{{561,3154},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3933,7 +3985,7 @@
             <key>Montserrat.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{898,501},{166,97}}</string>
+                <string>{{659,761},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3946,7 +3998,7 @@
             <key>Mordvia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1070,499},{166,97}}</string>
+                <string>{{920,729},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3959,7 +4011,7 @@
             <key>Morocco.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{392,1981},{145,91}}</string>
+                <string>{{836,1953},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3972,7 +4024,7 @@
             <key>Morocco_s_Dirham.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{949,2917},{90,91}}</string>
+                <string>{{655,3119},{90,91}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -3985,7 +4037,7 @@
             <key>Mozambique.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{634,1905},{145,91}}</string>
+                <string>{{983,1917},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -3998,7 +4050,7 @@
             <key>Mozambique_s_Metical.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{893,3101},{90,90}}</string>
+                <string>{{374,3376},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4011,11 +4063,11 @@
             <key>Myanmar_Burma.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{366,321},{166,99}}</string>
+                <string>{{666,660},{166,99}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{166,99}}</string>
                 <key>sourceSize</key>
@@ -4024,7 +4076,7 @@
             <key>Nagorno_Karabakh_Republic.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{441,661},{166,97}}</string>
+                <string>{{1092,692},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4037,7 +4089,7 @@
             <key>Namibia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2562},{144,91}}</string>
+                <string>{{2,2541},{144,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4050,7 +4102,7 @@
             <key>Namibia_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1874,2434},{91,90}}</string>
+                <string>{{1538,2720},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4063,7 +4115,7 @@
             <key>Nansilafu.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1214,697},{166,83}}</string>
+                <string>{{1428,800},{166,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4076,7 +4128,7 @@
             <key>Nauru.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1813,1877},{145,90}}</string>
+                <string>{{1571,2106},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4089,7 +4141,7 @@
             <key>Nauru_s_AUD.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1096,2914},{90,91}}</string>
+                <string>{{801,3109},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4102,7 +4154,7 @@
             <key>Nepal.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1657,1070},{146,91}}</string>
+                <string>{{1065,1177},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4115,7 +4167,7 @@
             <key>Nepal_s_Rupee.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1190,2828},{90,91}}</string>
+                <string>{{948,3021},{90,91}}</string>
                 <key>offset</key>
                 <string>{1,-1}</string>
                 <key>rotated</key>
@@ -4128,7 +4180,7 @@
             <key>Netherlands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{781,1821},{145,91}}</string>
+                <string>{{1131,1906},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4141,7 +4193,7 @@
             <key>Netherlands_Antilles.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1239,400},{166,97}}</string>
+                <string>{{924,630},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4154,7 +4206,7 @@
             <key>Netherlands_s_Antilles_Guilder.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1040,3098},{90,90}}</string>
+                <string>{{467,3351},{90,90}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -4164,14 +4216,27 @@
                 <key>sourceSize</key>
                 <string>{92,92}</string>
             </dict>
-            <key>Newzealand.png</key>
+            <key>New_Caledonia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{930,1636},{146,84}}</string>
+                <string>{{1131,2},{180,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,90}}</string>
+                <key>sourceSize</key>
+                <string>{180,90}</string>
+            </dict>
+            <key>Newzealand.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{838,538},{146,84}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{146,84}}</string>
                 <key>sourceSize</key>
@@ -4180,7 +4245,7 @@
             <key>Newzealand_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1539,2601},{91,90}}</string>
+                <string>{{1445,2660},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -4193,7 +4258,7 @@
             <key>Nicaragua.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1825,1027},{146,91}}</string>
+                <string>{{1213,1173},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4206,7 +4271,7 @@
             <key>Nicaragua_s_Cordoba.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1260,2544},{91,91}}</string>
+                <string>{{1927,2630},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4219,7 +4284,7 @@
             <key>Niger.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2378},{145,90}}</string>
+                <string>{{1719,2074},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4232,7 +4297,7 @@
             <key>Niger_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1135,3012},{90,90}}</string>
+                <string>{{560,3338},{90,90}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -4245,7 +4310,7 @@
             <key>Nigeria.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{149,2305},{145,90}}</string>
+                <string>{{2,2357},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4258,7 +4323,7 @@
             <key>Nigeria_s_Naira.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1809,2153},{90,92}}</string>
+                <string>{{925,2565},{90,92}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -4271,7 +4336,7 @@
             <key>Niue.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{171,421},{167,98}}</string>
+                <string>{{1821,103},{167,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4284,7 +4349,7 @@
             <key>Norfolk_Island.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1749,398},{166,98}}</string>
+                <string>{{1437,502},{166,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4297,7 +4362,7 @@
             <key>North_Ossetia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1411,399},{166,98}}</string>
+                <string>{{1606,501},{166,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4310,7 +4375,7 @@
             <key>Northem_Mariana_Islands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,385},{167,98}}</string>
+                <string>{{1652,103},{167,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4323,7 +4388,7 @@
             <key>Norway.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1073,301},{167,97}}</string>
+                <string>{{1268,488},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4336,7 +4401,7 @@
             <key>Norway_s_Krone.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1911,2618},{90,91}}</string>
+                <string>{{1096,2940},{90,91}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -4349,7 +4414,7 @@
             <key>Oman.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{929,1815},{145,91}}</string>
+                <string>{{1614,1920},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4362,7 +4427,7 @@
             <key>Oman_s_Rial.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{297,1993},{91,92}}</string>
+                <string>{{738,2241},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4375,7 +4440,7 @@
             <key>Pakistan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1077,1808},{145,91}}</string>
+                <string>{{1762,1888},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4388,7 +4453,7 @@
             <key>Pakistan_s_Rupee.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1633,2522},{91,90}}</string>
+                <string>{{2,3004},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4401,7 +4466,7 @@
             <key>Palau.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{390,2260},{145,90}}</string>
+                <string>{{149,2351},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4414,7 +4479,7 @@
             <key>Palau_s_US_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1354,2458},{91,91}}</string>
+                <string>{{1834,2630},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4427,7 +4492,7 @@
             <key>Palestine.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{440,958},{165,97}}</string>
+                <string>{{1590,897},{165,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4440,7 +4505,7 @@
             <key>Panama.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1225,1717},{145,91}}</string>
+                <string>{{1467,1829},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4453,7 +4518,7 @@
             <key>Panama_s_Balboa.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2655},{90,92}}</string>
+                <string>{{1072,2554},{90,92}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -4466,7 +4531,7 @@
             <key>Papua_New_Guinea.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{150,1566},{146,90}}</string>
+                <string>{{1339,1635},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4479,7 +4544,7 @@
             <key>Papua_New_Guinea_s_Kina.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1688,2429},{91,91}}</string>
+                <string>{{1741,2540},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4492,7 +4557,7 @@
             <key>Paraguay.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{778,2284},{145,89}}</string>
+                <string>{{590,2454},{145,89}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4505,7 +4570,7 @@
             <key>Paraguay_s_Guarani.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1595,2415},{91,91}}</string>
+                <string>{{1648,2534},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4518,7 +4583,7 @@
             <key>Peru.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{632,2184},{145,90}}</string>
+                <string>{{296,2284},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4531,7 +4596,7 @@
             <key>Peru_s_Nuevo_Sol.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1502,2365},{91,91}}</string>
+                <string>{{1555,2474},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4544,7 +4609,7 @@
             <key>Philippines.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1374,1712},{145,91}}</string>
+                <string>{{1615,1827},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4557,7 +4622,7 @@
             <key>Philippines_s_Peso.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1763,2710},{89,91}}</string>
+                <string>{{1910,2907},{89,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4570,7 +4635,7 @@
             <key>Pitcairn_Islands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1412,300},{167,97}}</string>
+                <string>{{1437,403},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4583,7 +4648,7 @@
             <key>Poland.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{926,2278},{145,89}}</string>
+                <string>{{831,2416},{145,89}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4596,7 +4661,7 @@
             <key>Poland_s_Zloty.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2747},{91,91}}</string>
+                <string>{{2,2818},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4609,7 +4674,7 @@
             <key>Portugal.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{780,2100},{145,90}}</string>
+                <string>{{443,2280},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4622,7 +4687,7 @@
             <key>Portugal_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{96,2674},{91,91}}</string>
+                <string>{{96,2812},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4635,7 +4700,7 @@
             <key>Puerto_Rico.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1243,202},{167,97}}</string>
+                <string>{{1607,402},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4648,7 +4713,7 @@
             <key>Qatar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{392,1520},{146,90}}</string>
+                <string>{{1487,1553},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4661,7 +4726,7 @@
             <key>Qatar_s_riyal.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1467,2982},{90,90}}</string>
+                <string>{{653,3303},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4674,11 +4739,11 @@
             <key>Republic_of_the_Congo.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{339,990},{148,92}}</string>
+                <string>{{509,699},{148,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{148,92}}</string>
                 <key>sourceSize</key>
@@ -4687,7 +4752,7 @@
             <key>Republic_of_the_Congo_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1561,2894},{90,90}}</string>
+                <string>{{747,3293},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4700,20 +4765,33 @@
             <key>Republika_Srpska.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{608,899},{165,97}}</string>
+                <string>{{1423,885},{165,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{165,97}}</string>
                 <key>sourceSize</key>
                 <string>{165,97}</string>
             </dict>
+            <key>Reunion.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,423},{180,109}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,109}}</string>
+                <key>sourceSize</key>
+                <string>{180,109}</string>
+            </dict>
             <key>Romania_New.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{927,2094},{145,90}}</string>
+                <string>{{590,2270},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4726,7 +4804,7 @@
             <key>Romania_New_s_Leu.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1781,2434},{91,90}}</string>
+                <string>{{95,2998},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4739,7 +4817,7 @@
             <key>Russia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1173},{146,92}}</string>
+                <string>{{506,1073},{146,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4752,7 +4830,7 @@
             <key>Russia_s_Ruble.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1818,2618},{90,91}}</string>
+                <string>{{1243,2937},{90,91}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -4765,7 +4843,7 @@
             <key>Rwanda.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1340,983},{146,91}}</string>
+                <string>{{1383,1172},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4778,7 +4856,7 @@
             <key>Rwanda_s_Franc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{148,2582},{90,92}}</string>
+                <string>{{1220,2466},{90,92}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -4791,7 +4869,7 @@
             <key>Saba.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1581,398},{166,98}}</string>
+                <string>{{1776,500},{166,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4804,11 +4882,11 @@
             <key>Saint_Barthelemy.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{609,732},{165,98}}</string>
+                <string>{{1256,885},{165,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{165,98}}</string>
                 <key>sourceSize</key>
@@ -4817,7 +4895,7 @@
             <key>Saint_Helena.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{647,250},{146,84}}</string>
+                <string>{{583,372},{146,84}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4830,7 +4908,7 @@
             <key>Saint_Helena_s_Pound.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1708,2893},{90,90}}</string>
+                <string>{{841,3205},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -4843,7 +4921,7 @@
             <key>Saint_Kitts_and_Nevis.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1522,1626},{145,91}}</string>
+                <string>{{1783,1795},{145,91}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -4856,7 +4934,7 @@
             <key>Saint_Kitts_and_Nevis_s_dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1430,2785},{90,91}}</string>
+                <string>{{1390,2936},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4869,7 +4947,7 @@
             <key>Saint_Lucia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{150,1842},{146,89}}</string>
+                <string>{{150,1888},{146,89}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4882,7 +4960,7 @@
             <key>Saint_Lucia_s_dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1577,2706},{90,91}}</string>
+                <string>{{1484,2904},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4895,7 +4973,7 @@
             <key>Saint_Martin.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{467,363},{167,98}}</string>
+                <string>{{671,263},{167,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4908,7 +4986,7 @@
             <key>Saint_Pierre_and_Miquelon.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{197,321},{167,98}}</string>
+                <string>{{930,233},{167,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4921,7 +4999,7 @@
             <key>Saint_Vincent_and_the_Grenadines.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{634,1444},{146,90}}</string>
+                <string>{{1191,1544},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4934,7 +5012,7 @@
             <key>Saint_Vincent_and_the_Grenadines_s_dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{242,2643},{91,91}}</string>
+                <string>{{190,2743},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4947,11 +5025,11 @@
             <key>Sakha_Republic.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1919,337},{166,98}}</string>
+                <string>{{170,836},{166,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{166,98}}</string>
                 <key>sourceSize</key>
@@ -4960,7 +5038,7 @@
             <key>Samoa.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1509,978},{146,91}}</string>
+                <string>{{1551,1090},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4973,7 +5051,7 @@
             <key>Samoa_s_tala.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2933},{91,90}}</string>
+                <string>{{188,2929},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4986,7 +5064,7 @@
             <key>San_Marino.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1075,2087},{145,90}}</string>
+                <string>{{833,2232},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -4999,7 +5077,7 @@
             <key>San_Marino_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1947,2802},{90,90}}</string>
+                <string>{{987,3124},{90,90}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -5012,7 +5090,7 @@
             <key>Sao_Tome_and_Principe.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{151,1100},{146,92}}</string>
+                <string>{{506,979},{146,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5025,7 +5103,7 @@
             <key>Sao_Tome_and_Principe_s_dobra.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{539,1919},{91,92}}</string>
+                <string>{{1909,1893},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5038,7 +5116,7 @@
             <key>Sark.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{610,565},{165,98}}</string>
+                <string>{{1936,834},{165,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5051,7 +5129,7 @@
             <key>Saudi_Arabia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2006},{145,91}}</string>
+                <string>{{2,1985},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5064,7 +5142,7 @@
             <key>Saudi_Arabia_s_Riyal.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{389,2627},{91,91}}</string>
+                <string>{{336,2740},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5074,10 +5152,23 @@
                 <key>sourceSize</key>
                 <string>{91,91}</string>
             </dict>
+            <key>Scotland.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,255},{192,115}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{192,115}}</string>
+                <key>sourceSize</key>
+                <string>{192,115}</string>
+            </dict>
             <key>Sealand_Principality.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{733,289},{167,97}}</string>
+                <string>{{1808,401},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5090,7 +5181,7 @@
             <key>Senegal.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{433,1057},{147,90}}</string>
+                <string>{{506,887},{147,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5103,7 +5194,7 @@
             <key>Senegal_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{540,1547},{92,91}}</string>
+                <string>{{742,1683},{92,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5116,7 +5207,7 @@
             <key>Serbia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1677,977},{146,91}}</string>
+                <string>{{1719,1088},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5129,7 +5220,7 @@
             <key>Serbia_s_Dinar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1855,2802},{90,90}}</string>
+                <string>{{1134,3121},{90,90}}</string>
                 <key>offset</key>
                 <string>{1,-1}</string>
                 <key>rotated</key>
@@ -5142,7 +5233,7 @@
             <key>Seychelles.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{150,1933},{145,91}}</string>
+                <string>{{150,1979},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5155,7 +5246,7 @@
             <key>Seychelles_s_Rupee.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{95,2860},{91,90}}</string>
+                <string>{{282,2926},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5168,7 +5259,7 @@
             <key>Sierra_Leone.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1845,934},{146,91}}</string>
+                <string>{{2,1338},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5181,7 +5272,7 @@
             <key>Sierra_Leone_s_Leone.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{298,1528},{92,91}}</string>
+                <string>{{761,1590},{92,91}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -5194,7 +5285,7 @@
             <key>Sikkim.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{709,882},{165,97}}</string>
+                <string>{{2,1239},{165,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5207,7 +5298,7 @@
             <key>Singapore.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1953,1120},{145,92}}</string>
+                <string>{{821,1149},{145,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5220,7 +5311,7 @@
             <key>Singapore_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1725,2618},{90,91}}</string>
+                <string>{{1631,2818},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5233,7 +5324,7 @@
             <key>Slovakia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1079,1439},{146,90}}</string>
+                <string>{{1339,1543},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5246,7 +5337,7 @@
             <key>Slovakia_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{540,1360},{92,92}}</string>
+                <string>{{1953,1427},{92,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5259,7 +5350,7 @@
             <key>Slovenia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{931,1360},{146,90}}</string>
+                <string>{{1803,1611},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5272,7 +5363,7 @@
             <key>Slovenia_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{540,1454},{92,91}}</string>
+                <string>{{1951,1614},{92,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5285,7 +5376,7 @@
             <key>Solomon_Islands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{392,1888},{145,91}}</string>
+                <string>{{298,1912},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5298,7 +5389,7 @@
             <key>Solomon_Islands_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{298,1435},{92,91}}</string>
+                <string>{{1953,1521},{92,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5311,7 +5402,7 @@
             <key>Somalia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1222,1996},{145,90}}</string>
+                <string>{{981,2196},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5324,7 +5415,7 @@
             <key>Somalia_s_Shilling.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{484,2569},{91,91}}</string>
+                <string>{{483,2730},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5337,7 +5428,7 @@
             <key>Somaliland.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{877,797},{165,97}}</string>
+                <string>{{170,1233},{165,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5350,7 +5441,7 @@
             <key>South_Africa.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{783,1360},{146,90}}</string>
+                <string>{{1655,1551},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5363,7 +5454,7 @@
             <key>South_Africa_s_Rand.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{631,2551},{91,91}}</string>
+                <string>{{631,2705},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -5376,7 +5467,7 @@
             <key>South_Georgia_and_the_South_Sandwich_Islands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1046,796},{165,97}}</string>
+                <string>{{338,1165},{165,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5389,7 +5480,7 @@
             <key>South_Ossetia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1214,782},{165,97}}</string>
+                <string>{{654,1058},{165,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5402,7 +5493,7 @@
             <key>South_Sudan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1227,1355},{146,90}}</string>
+                <string>{{1507,1461},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5415,7 +5506,7 @@
             <key>South_Sudan_s_SSPound.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{925,2369},{92,90}}</string>
+                <string>{{2,2634},{92,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -5428,7 +5519,7 @@
             <key>Sovereign_Military_Order_of_Malta.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{904,204},{167,97}}</string>
+                <string>{{929,432},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5441,7 +5532,7 @@
             <key>Spain.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1079,1347},{146,90}}</string>
+                <string>{{1805,1519},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5454,7 +5545,7 @@
             <key>Spain_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{725,2467},{91,91}}</string>
+                <string>{{778,2692},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5467,7 +5558,7 @@
             <key>Srilanka.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{735,2},{169,84}}</string>
+                <string>{{1313,2},{169,84}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5480,7 +5571,7 @@
             <key>Sudan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1192,975},{146,91}}</string>
+                <string>{{169,1332},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5493,7 +5584,7 @@
             <key>Sudan_s_Pound.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{872,2461},{91,91}}</string>
+                <string>{{925,2657},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5506,7 +5597,7 @@
             <key>Suriname.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1074,202},{167,97}}</string>
+                <string>{{1099,394},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5519,7 +5610,7 @@
             <key>Suriname_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1337,2736},{90,91}}</string>
+                <string>{{1724,2815},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5532,7 +5623,7 @@
             <key>Swaziland.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{931,1268},{146,90}}</string>
+                <string>{{1657,1459},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5545,7 +5636,7 @@
             <key>Swaziland_s_SARand.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,3301},{89,91}}</string>
+                <string>{{1817,2907},{89,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5558,7 +5649,7 @@
             <key>Sweden.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1370,1991},{145,90}}</string>
+                <string>{{1129,2185},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5571,7 +5662,7 @@
             <key>Sweden_s_Krona.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,3117},{90,91}}</string>
+                <string>{{1872,2723},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5584,7 +5675,7 @@
             <key>Switzerland.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1079},{147,92}}</string>
+                <string>{{508,793},{147,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5597,7 +5688,7 @@
             <key>Switzerland_s_Franc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{295,2551},{90,92}}</string>
+                <string>{{1368,2385},{90,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5610,7 +5701,7 @@
             <key>Syria.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1361,890},{146,91}}</string>
+                <string>{{337,1264},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5623,7 +5714,7 @@
             <key>Syria_s_Pound.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1019,2455},{91,91}}</string>
+                <string>{{1019,2646},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5636,7 +5727,7 @@
             <key>Taiwan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1529,885},{146,91}}</string>
+                <string>{{505,1260},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5649,7 +5740,7 @@
             <key>Taiwan_s_New_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1073,2363},{92,90}}</string>
+                <string>{{148,2628},{92,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5662,7 +5753,7 @@
             <key>Tajikistan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1547},{146,90}}</string>
+                <string>{{1805,1427},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5675,7 +5766,7 @@
             <key>Tajikistan_s_Somoni.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1167,2454},{91,91}}</string>
+                <string>{{1166,2558},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5688,7 +5779,7 @@
             <key>Tanzania.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1697,884},{146,91}}</string>
+                <string>{{653,1250},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5701,7 +5792,7 @@
             <key>Tanzania_s_Shilling.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1261,2451},{91,91}}</string>
+                <string>{{1314,2477},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5714,7 +5805,7 @@
             <key>Tatarstan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{477,263},{167,98}}</string>
+                <string>{{1100,194},{167,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5727,7 +5818,7 @@
             <key>Thailand.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{150,1474},{146,90}}</string>
+                <string>{{875,1492},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5740,7 +5831,7 @@
             <key>Thailand_s_Baht.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1221,2272},{92,90}}</string>
+                <string>{{295,2559},{92,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -5753,7 +5844,7 @@
             <key>Tierra_del_Fuego_Province_Argentina.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1752,201},{167,97}}</string>
+                <string>{{1268,389},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5766,11 +5857,11 @@
             <key>Togo.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{582,1066},{145,92}}</string>
+                <string>{{522,520},{145,92}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{145,92}}</string>
                 <key>sourceSize</key>
@@ -5779,11 +5870,11 @@
             <key>Togo_s_CFAfranc.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1957,2063},{89,92}}</string>
+                <string>{{1904,2355},{89,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,1},{89,92}}</string>
                 <key>sourceSize</key>
@@ -5792,7 +5883,7 @@
             <key>Tokelau.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1583,201},{167,97}}</string>
+                <string>{{1438,304},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5805,7 +5896,7 @@
             <key>Tonga.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{634,1812},{145,91}}</string>
+                <string>{{446,1908},{145,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -5818,7 +5909,7 @@
             <key>Tonga_s_Pa'anga.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{95,3044},{90,91}}</string>
+                <string>{{2,3188},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5831,7 +5922,7 @@
             <key>Transnistria.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{730,487},{166,97}}</string>
+                <string>{{1265,687},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5844,7 +5935,7 @@
             <key>Trinidad_and_Tobago.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{392,1428},{146,90}}</string>
+                <string>{{1043,1456},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -5857,7 +5948,7 @@
             <key>Trinidad_and_Tobago_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1409,2365},{91,91}}</string>
+                <string>{{1462,2474},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5870,7 +5961,7 @@
             <key>Tristan_da_Cunha.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{735,189},{167,98}}</string>
+                <string>{{1301,189},{167,98}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5883,7 +5974,7 @@
             <key>Tunisia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1518,1905},{145,90}}</string>
+                <string>{{1277,2097},{145,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5896,7 +5987,7 @@
             <key>Tunisia_s_Dinar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1375,2969},{90,90}}</string>
+                <string>{{1282,3120},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5909,7 +6000,7 @@
             <key>Turkey.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{635,1352},{146,90}}</string>
+                <string>{{1191,1452},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5922,7 +6013,7 @@
             <key>Turkey_s_Lira.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{188,3013},{90,91}}</string>
+                <string>{{95,3182},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5935,7 +6026,7 @@
             <key>Turkish_Republic_of_Northern_Cyprus.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{902,402},{166,97}}</string>
+                <string>{{1435,602},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5948,7 +6039,7 @@
             <key>Turkmenistan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{782,1728},{145,91}}</string>
+                <string>{{594,1898},{145,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5961,7 +6052,7 @@
             <key>Turkmenistan_s_Manat.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{188,2829},{91,90}}</string>
+                <string>{{376,2916},{91,90}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -5974,7 +6065,7 @@
             <key>Turks_and_Caicos_Islands.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1414,201},{167,97}}</string>
+                <string>{{1639,303},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -5987,7 +6078,7 @@
             <key>Tuva.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1071,400},{166,97}}</string>
+                <string>{{1605,601},{166,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6000,7 +6091,7 @@
             <key>Tuvalu.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{170,1015},{155,83}}</string>
+                <string>{{509,614},{155,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6013,7 +6104,7 @@
             <key>Tuvalu_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1469,2890},{90,90}}</string>
+                <string>{{1429,3088},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -6026,7 +6117,7 @@
             <key>UAE.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,293},{193,90}}</string>
+                <string>{{477,163},{193,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6039,7 +6130,7 @@
             <key>UAE_s_Dirham.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{95,3228},{89,91}}</string>
+                <string>{{2,3372},{89,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6052,7 +6143,7 @@
             <key>UK.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{930,1722},{145,91}}</string>
+                <string>{{836,1860},{145,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -6065,7 +6156,7 @@
             <key>UK_s_Pound.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{298,1900},{91,92}}</string>
+                <string>{{739,2148},{91,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6078,7 +6169,7 @@
             <key>USA.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1416,1350},{146,90}}</string>
+                <string>{{1657,1367},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6091,7 +6182,7 @@
             <key>USA_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1616,2802},{90,90}}</string>
+                <string>{{1576,3002},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -6104,7 +6195,7 @@
             <key>Udmurtia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1753,102},{167,97}}</string>
+                <string>{{1821,302},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6117,7 +6208,7 @@
             <key>Uganda.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{783,1268},{146,90}}</string>
+                <string>{{1359,1451},{146,90}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -6130,7 +6221,7 @@
             <key>Uganda_s_Shilling.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{281,2997},{90,91}}</string>
+                <string>{{188,3113},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6143,7 +6234,7 @@
             <key>Ukraine.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{635,1260},{146,90}}</string>
+                <string>{{1509,1369},{146,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6156,7 +6247,7 @@
             <key>Ukraine_s_Hryvna.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1931,2341},{91,91}}</string>
+                <string>{{1891,2537},{91,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -6166,10 +6257,23 @@
                 <key>sourceSize</key>
                 <string>{93,93}</string>
             </dict>
+            <key>United-nations.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,293},{228,128}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{228,128}}</string>
+                <key>sourceSize</key>
+                <string>{228,128}</string>
+            </dict>
             <key>Uruguay.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1811,2061},{144,90}}</string>
+                <string>{{1865,2171},{144,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6182,7 +6286,7 @@
             <key>Uruguay_s_Peso.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1838,2341},{91,91}}</string>
+                <string>{{1798,2447},{91,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6195,7 +6299,7 @@
             <key>Uzbekistan.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1078,1715},{145,91}}</string>
+                <string>{{984,1824},{145,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -6208,7 +6312,7 @@
             <key>Uzbekistan_s_Som.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{390,2535},{90,92}}</string>
+                <string>{{1610,2382},{90,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6221,7 +6325,7 @@
             <key>Vanuatu.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1845,841},{146,91}}</string>
+                <string>{{505,1167},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6234,7 +6338,7 @@
             <key>Vanuatu_s_Vatu.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{374,2939},{90,91}}</string>
+                <string>{{281,3110},{90,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6247,7 +6351,7 @@
             <key>Vatican_City.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{187,3381},{90,90}}</string>
+                <string>{{1854,3090},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6260,7 +6364,7 @@
             <key>Vatican_City_s_Euro.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1948,2710},{90,90}}</string>
+                <string>{{1670,2999},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6273,7 +6377,7 @@
             <key>Venezuela.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1697,791},{146,91}}</string>
+                <string>{{654,1157},{146,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -6286,7 +6390,7 @@
             <key>Venezuela_s_Bolivar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1763,2801},{90,90}}</string>
+                <string>{{1909,2998},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6299,7 +6403,7 @@
             <key>Viet_Nam.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{393,1149},{146,91}}</string>
+                <string>{{917,1120},{146,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -6312,7 +6416,7 @@
             <key>Viet_Nam_s_Dong.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{282,2813},{91,90}}</string>
+                <string>{{522,2891},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6325,7 +6429,7 @@
             <key>Virgin_Islands_UK.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1584,102},{167,97}}</string>
+                <string>{{1821,203},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6338,7 +6442,7 @@
             <key>Virgin_Islands_US.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1245,103},{167,97}}</string>
+                <string>{{671,363},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6351,7 +6455,7 @@
             <key>Wales.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1382,697},{165,97}}</string>
+                <string>{{920,927},{165,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6361,10 +6465,23 @@
                 <key>sourceSize</key>
                 <string>{165,97}</string>
             </dict>
+            <key>Wallis_amp_Futuna.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{735,132},{193,129}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{193,129}}</string>
+                <key>sourceSize</key>
+                <string>{193,129}</string>
+            </dict>
             <key>Western_Sahara.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1415,102},{167,97}}</string>
+                <string>{{930,333},{167,97}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6377,7 +6494,7 @@
             <key>Yemen.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{707,981},{146,91}}</string>
+                <string>{{1065,1084},{146,91}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6390,7 +6507,7 @@
             <key>Yemen_s_Rial.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1856,2710},{90,90}}</string>
+                <string>{{1817,2998},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6403,7 +6520,7 @@
             <key>Zambia.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{149,2489},{144,91}}</string>
+                <string>{{149,2535},{144,91}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -6416,7 +6533,7 @@
             <key>Zambia_s_Kwacha.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{428,2755},{91,90}}</string>
+                <string>{{669,2878},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -6426,14 +6543,27 @@
                 <key>sourceSize</key>
                 <string>{93,92}</string>
             </dict>
-            <key>Zimbabwe.png</key>
+            <key>Zhayier.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{876,896},{146,91}}</string>
+                <string>{{2,830},{166,111}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{166,111}}</string>
+                <key>sourceSize</key>
+                <string>{166,111}</string>
+            </dict>
+            <key>Zimbabwe.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{827,834},{146,91}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{146,91}}</string>
                 <key>sourceSize</key>
@@ -6442,7 +6572,7 @@
             <key>Zimbabwe_s_Dollar.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{575,2737},{91,90}}</string>
+                <string>{{817,2843},{91,90}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -6455,7 +6585,7 @@
             <key>srilanka_s_Rupee.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{647,163},{86,85}}</string>
+                <string>{{840,451},{86,85}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -6464,19 +6594,6 @@
                 <string>{{0,1},{86,85}}</string>
                 <key>sourceSize</key>
                 <string>{86,87}</string>
-            </dict>
-            <key>zhayier.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1922,2},{166,111}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{166,111}}</string>
-                <key>sourceSize</key>
-                <string>{166,111}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -6488,7 +6605,7 @@
             <key>size</key>
             <string>{2048,4096}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:1e6e386670a0c8f4f7903a307b34a68d$</string>
+            <string>$TexturePacker:SmartUpdate:3ff6edcdd25de22cc970b98e3be8f388$</string>
             <key>textureFileName</key>
             <string>flag&amp;currency.png</string>
         </dict>
