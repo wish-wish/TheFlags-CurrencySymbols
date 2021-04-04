@@ -442,7 +442,20 @@ def processSort2():
     print len(gbt),gbt;
     f.close();
 
-
+def  generateGBT2659():
+    f=open(getCur()+"coin_sections.json","r")
+    #os.chdir((getCur()+"GBT-265").replace("/","\\"));
+    print os.getcwd();
+    #os.chdir("GBT-2659");
+    for line in f:
+        a=line.encode("gb2312").lstrip().rstrip() 
+        arr=a.split(",");
+        if len(a)>3 and arr[1]<>'""':
+            cmd="copy "+getCur()+"flag_sections/"+arr[0][2:-1]+" "+arr[1][1:-1]+".png";
+            cmd=cmd.replace("/","\\");
+            print cmd;
+            os.system(cmd);
+    f.close();
 
 if __name__ == '__main__':
     reload(sys) 
@@ -470,7 +483,8 @@ if __name__ == '__main__':
     #processSort1();
     #processGBT();
     #processNGBT();
-    processSort2();
+    #processSort2();
+    #generateGBT2659();
     '''
     n1="aland-islands.png";
     n2="Aland.png"
