@@ -12,33 +12,11 @@ import re
 import xml.dom.minidom as minidom
 from xml.etree import ElementTree as ET
 import codecs
-import commands
+#import commands
 from subprocess import Popen,PIPE
 import subprocess
 import time
-   
-def walk_dirs(dir,list,topdown=True):       
-    for root, dirs, files in os.walk(dir, topdown):        
-        for name in dirs:            
-            path=os.path.join(root,name)+r"/"
-            path=path.replace("\\","/")
-            #pa=path.lower()
-            list.append(path)
-            #print path
-
-def walk_files(dir,list,topdown=True):
-    for root, dirs, files in os.walk(dir, topdown):
-        for name in files:
-            ext=os.path.splitext(name)[1]
-            file=os.path.join(root,name)     
-            file=file.replace("\\","/")
-            #print file
-            if file.find(".svn")==-1 and file not in list:                
-                list.append(file)
-                #print file;
-    
-def getCur():
-    return os.path.split(os.path.realpath(__file__))[0]+r"/"
+import ipath as ip;   
 
 def getRemember(rfiles,fname):
     for line in rfiles:
@@ -51,14 +29,14 @@ def processFlags():
     #half autohand process
     afiles=[];
     anames=[];
-    walk_files(getCur()+"flag_sections",afiles);    
+    walk_files(ip.getCur()+"flag_sections",afiles);    
     for line in afiles:
         n=line.split(r"/");
         anames.append(n[len(n)-1]);
 
-    frem=open(getCur()+"forhumanremember.txt","r")
+    frem=open(ip.getCur()+"forhumanremember.txt","r")
 
-    f=open(getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"coin_sections.json","r")
     idx=0;
     icount=0;
     for line in f:        
@@ -97,12 +75,12 @@ def processSymbols():
     #half autohand process
     afiles=[];
     anames=[];
-    walk_files(getCur()+"_currency",afiles);    
+    walk_files(ip.getCur()+"_currency",afiles);    
     for line in afiles:
         n=line.encode("gb2312").split(r"/");
         anames.append(n[len(n)-1]);
                 
-    f=open(getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"coin_sections.json","r")
     symbols=[]
     for line in f:
         arr=line.encode("gb2312").split(",")
@@ -133,13 +111,13 @@ def isMatchName2(n1,n2list):
 def processCircle2():
     afiles=[];
     anames=[];
-    walk_files(getCur()+"flag_circle",afiles);
+    walk_files(ip.getCur()+"flag_circle",afiles);
     for line in afiles:
         n=line.encode("gb2312").split(r"/");
         anames.append(n[len(n)-1]);
     idx=0;
     hitcount=0;
-    f=open(getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"coin_sections.json","r")
     for line in f:
         arr=line.encode("gb2312").split(",")
         if len(arr)<3:
@@ -163,13 +141,13 @@ def processCircle2():
 def processCircle():
     afiles=[];
     anames=[];
-    walk_files(getCur()+"flag_circle",afiles);
+    walk_files(ip.getCur()+"flag_circle",afiles);
     for line in afiles:
         n=line.encode("gb2312").split(r"/");
         anames.append(n[len(n)-1]);
         #print(n[len(n)-1])
 
-    f=open(getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"coin_sections.json","r")
     hitcout=0;
     symbols=[];
     nohits=[];
@@ -219,12 +197,12 @@ def processCircle():
 def processCircle3():
     afiles=[];
     anames=[];
-    walk_files(getCur()+"flag_circle",afiles);
+    walk_files(ip.getCur()+"flag_circle",afiles);
     for line in afiles:
         n=line.encode("gb2312").split(r"/");
         anames.append(n[len(n)-1]);        
 
-    f=open(getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"coin_sections.json","r")
     symbols=[];
     print "";
     print "not in 261";
@@ -240,7 +218,7 @@ def processCircle3():
             na=arr[3][1:-1].lower();
         else:
             print arr[2][1:-1].lower();
-            cmd="copy "+getCur()+"flag_sections/"+arr[2][1:-1]+" "+getCur()+"tocheck/"+arr[2][1:-1];
+            cmd="copy "+ip.getCur()+"flag_sections/"+arr[2][1:-1]+" "+ip.getCur()+"tocheck/"+arr[2][1:-1];
             print cmd;
             #os.system(cmd.replace("/","\\"));            
         if len(na)>1 and na not in symbols:
@@ -255,7 +233,7 @@ def processCircle3():
     for line in anames:
         if line not in symbols:
             print line;
-            cmd="copy "+getCur()+"flag_circle/"+line+" "+getCur()+"tocheck/"+line;
+            cmd="copy "+ip.getCur()+"flag_circle/"+line+" "+ip.getCur()+"tocheck/"+line;
             print cmd;
             #os.system(cmd.replace("/","\\"));
             cou=cou+1;
@@ -263,7 +241,7 @@ def processCircle3():
     f.close();
 
 def processReOrder():
-    f=open(getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"coin_sections.json","r")
     idx=0;
     for line in f:
         arr=line.encode("gb2312").split(",")
@@ -284,7 +262,7 @@ def processReOrder():
     f.close();
 
 def processSort():
-    f=open(getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"coin_sections.json","r")
     names=[];
     idx=0;
     newlist=[];
@@ -329,8 +307,8 @@ def getSame(na,blist):
     return "";
 
 def processGBT():
-    f=open(getCur()+"coin_sections.json","r")
-    ft=open(getCur()+"GBT-2659-2000.csv","r")
+    f=open(ip.getCur()+"coin_sections.json","r")
+    ft=open(ip.getCur()+"GBT-2659-2000.csv","r")
     gbt=[];
     for line in ft:
         gbt.append(line);        
@@ -354,8 +332,8 @@ def processGBT():
     f.close();
 
 def processNGBT():
-    f=open(getCur()+"coin_sections.json","r")
-    ft=open(getCur()+"GBT-2659-2000.csv","r")
+    f=open(ip.getCur()+"coin_sections.json","r")
+    ft=open(ip.getCur()+"GBT-2659-2000.csv","r")
     hits=[];
     for line in f:
         arr=line.encode("gb2312").rstrip().split(",")
@@ -372,7 +350,7 @@ def processNGBT():
 
 
 def processSort1():
-    f=open(getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"coin_sections.json","r")
     names=[];
     idx=0;
     newlist=[];
@@ -414,7 +392,7 @@ def processSort1():
 
 
 def processSort2():
-    f=open(getCur()+"coin_sections.json","r")    
+    f=open(ip.getCur()+"coin_sections.json","r")    
     idx=0;
     newlist=[];
     for line in f:
@@ -443,7 +421,7 @@ def processSort2():
     f.close();
 
 def  generateGBT2659():
-    f=open(getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"coin_sections.json","r")
     #os.chdir((getCur()+"GBT-265").replace("/","\\"));
     print os.getcwd();
     #os.chdir("GBT-2659");
@@ -451,7 +429,7 @@ def  generateGBT2659():
         a=line.encode("gb2312").lstrip().rstrip() 
         arr=a.split(",");
         if len(a)>3 and arr[1]<>'""':
-            cmd="copy "+getCur()+"flag_sections/"+arr[0][2:-1]+" "+arr[1][1:-1]+".png";
+            cmd="copy "+ip.getCur()+"flag_sections/"+arr[0][2:-1]+" "+arr[1][1:-1]+".png";
             cmd=cmd.replace("/","\\");
             print cmd;
             os.system(cmd);
@@ -464,7 +442,7 @@ if __name__ == '__main__':
     print ss
     cmd = "TITLE "+ss
     os.system(cmd.encode('gb2312'))    
-    print "author cclin 2015.04"
+    print "author cclin 2021.04.05"
     print "support:e-mail=12092020@qq.com"
     print "copyright 2015~2018 for anyone to use"
     print ""
