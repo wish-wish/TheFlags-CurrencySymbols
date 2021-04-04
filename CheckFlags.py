@@ -262,8 +262,6 @@ def processCircle3():
     print cou;
     f.close();
 
-
-
 def processReOrder():
     f=open(getCur()+"coin_sections.json","r")
     idx=0;
@@ -283,6 +281,165 @@ def processReOrder():
 
         print nline;
         idx=idx+1;
+    f.close();
+
+def processSort():
+    f=open(getCur()+"coin_sections.json","r")
+    names=[];
+    idx=0;
+    newlist=[];
+    for line in f:
+        arr=line.encode("gb2312").split(",")
+        if len(arr)<3:
+            continue;
+        names.append(arr[2][1:-1]);
+        nline="["+arr[2]+","+str(idx)+","
+        idx1=0;
+        for a in arr:
+            if(idx1==0 or idx1==2 or len(a)<2):
+                idx1=idx1+1;
+                continue;        
+            nline=nline+a+",";
+            idx1=idx1+1;
+        #print nline;
+        newlist.append(nline);
+        idx=idx+1;
+    newlist.sort();
+    idx=0;
+    for line in newlist:
+        arr=line.split(",")
+        arr[1]=str(idx);
+        idx=idx+1;
+        nline="";
+        if len(arr)<3:
+            continue;
+        for a in arr:
+            if(idx1==0 or len(a)<2):
+                continue;
+            nline=nline+a+",";
+        print nline;
+    f.close();
+
+def getSame(na,blist):    
+    for line in blist:
+        brr=line.encode("gb2312").rstrip().split(",");        
+        if na[1:-1]==brr[1]:
+            return brr[4];
+    #print arr[0][5:];
+    return "";
+
+def processGBT():
+    f=open(getCur()+"coin_sections.json","r")
+    ft=open(getCur()+"GBT-2659-2000.csv","r")
+    gbt=[];
+    for line in ft:
+        gbt.append(line);        
+    for line in f:
+        arr=line.encode("gb2312").rstrip().split(",")
+        if len(arr)<3:
+            continue;
+        #arr.insert(0,getSame());        
+        nline='["'+getSame(arr[4],gbt)+'",';
+        idx1=0;
+        for a in arr:
+            if(len(a)<2):
+                continue;            
+            if idx1==0:
+                nline=nline+a[5:]+",";
+            else:
+                nline=nline+a+",";
+            idx1=idx1+1;
+        print nline;
+    ft.close();
+    f.close();
+
+def processNGBT():
+    f=open(getCur()+"coin_sections.json","r")
+    ft=open(getCur()+"GBT-2659-2000.csv","r")
+    hits=[];
+    for line in f:
+        arr=line.encode("gb2312").rstrip().split(",")
+        if len(arr)<3:
+            continue;
+        if arr[0][2:-1]<>"":
+            hits.append(arr[0][2:-1]);
+    for line in ft:
+        arr=line.encode("gb2312").rstrip().split(",")
+        if arr[4] not in hits:
+            print arr[1];
+    ft.close();
+    f.close();   
+
+
+def processSort1():
+    f=open(getCur()+"coin_sections.json","r")
+    names=[];
+    idx=0;
+    newlist=[];
+    for line in f:
+        arr=line.encode("gb2312").lstrip().rstrip().split(",")
+        if len(arr)<4:
+            continue;
+        names.append(arr[2][1:-1]);
+        nline="["+arr[1]+","
+        idx1=0;
+        for a in arr:
+            if(idx1==1 or a==""):
+                idx1=idx1+1;
+                continue;     
+            if idx1==0:   
+                nline=nline+a[1:]+",";
+            else:
+                nline=nline+a+",";            
+            idx1=idx1+1;            
+        #print nline
+        newlist.append(nline);
+        idx=idx+1;
+    newlist.sort();
+    idx=0;
+    for line in newlist:
+        arr=line.split(",")
+        arr[2]=str(idx);
+        del arr[2];
+        idx=idx+1;
+        nline="";
+        if len(arr)<3:
+            continue;
+        for a in arr:
+            if(idx1==0 or len(a)<1):
+                continue;
+            nline=nline+a+",";
+        print nline;
+    f.close();
+
+
+def processSort2():
+    f=open(getCur()+"coin_sections.json","r")    
+    idx=0;
+    newlist=[];
+    for line in f:
+        a=line.encode("gb2312").lstrip().rstrip()   
+        if len(a)>3:     
+            newlist.append(a);
+        #print a;
+        idx=idx+1;
+    newlist.sort();
+    idx=0;
+    gbt=[];
+    for line in newlist:
+        arr=line.lstrip().rstrip().split(","); 
+        #del arr[2];      
+        idx=idx+1;
+        nline="";
+        if len(arr)<3:
+            continue;
+        for a in arr:    
+            if len(a)>0:        
+                nline=nline+a+",";
+        if arr[1]<>'""' and arr[1] not in gbt:
+            gbt.append(arr[1]);
+        print nline;
+    print len(gbt),gbt;
     f.close();
 
 
@@ -306,11 +463,14 @@ if __name__ == '__main__':
     #processFlags();
     #processCircle();
     #processCircle2();
-    processCircle3();
+    #processCircle3();
     #os.system('copy d:/World/TheFlags-CurrencySymbols/flag_circle/wallis-amp-futuna.png d:/World/TheFlags-CurrencySymbols/tocheck/wallis-amp-futuna.png');
     #processReOrder();
-    
-
+    #processSort();
+    #processSort1();
+    #processGBT();
+    #processNGBT();
+    processSort2();
     '''
     n1="aland-islands.png";
     n2="Aland.png"
