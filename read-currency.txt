@@ -8,6 +8,8 @@
 人民币
 中国，中国台湾，中国澳门，中国香港
 
+越南、蒙古、老挝、尼泊尔、俄罗斯、吉尔吉斯、朝鲜、哈萨克斯坦、韩国、马来西亚、白俄罗斯、印度尼西、阿根廷、土耳其、巴基斯坦、俄罗斯、尼日利亚、伊朗、阿尔及利亚、新加坡、英国、加拿大、德国等国
+
 欧元区
 欧元区共有19个成员国，包括德国、法国、意大利、荷兰、比利时、卢森堡、爱尔兰、西班牙、葡萄牙、奥地利、芬兰、立陶宛、拉脱维亚、爱沙尼亚、斯洛伐克、斯洛文尼亚、希腊、马耳他、塞浦路斯 人口超过3亿3千万；
 
@@ -39,4 +41,58 @@
 
 美元
 巴拿马、萨尔瓦多、美国、厄瓜多尔、英属维尔京群岛
+
+monetary货币
+devanagari梵文
+bengali孟加拉
+gujarati古吉拉特
+tamil泰米尔
+insignia徽章
+
+Mill  1/10 美分
+Penny  1 美分
+Nickel  5 美分
+Dime   10美分
+Quarter  25美分
+Dollar  美元
+
+colon科朗=Costa/Salvador 
+naira奈拉=nigeria
+peseta比塞塔=spain/peso
+won円=korea
+shekel/sheqel舍客勒=israel以色列/希伯来/巴比伦
+dong盾=vietnam
+kip奇普=laos
+tugrik/tugrug/tugric/tugrog/togrog图格里克=mongolia
+drachma德拉克马=greece
+penny便士=german/usa/canada
+guarani瓜拉尼G./Gs.=paraguay
+austral奥斯厝=argentinian
+hryvnia格里夫尼亚=ukraine
+cedi塞地=ghana加纳
+livre里弗=old france
+tournois图尔币=coin in france
+spesmilo斯佩斯米罗/Spesos/Stelo=swiss/english/esperanto
+tenge坚戈=kazakhstan哈萨克斯坦
+rupee卢比=india
+lira里拉=turkey
+manat马纳特=azerbaijan阿塞拜疆
+ruble卢布=russia
+lari拉里=georgia格鲁吉亚
+bitcoin比特币=cryptocurrency
+yen=korea
+dram德拉姆драм=armenian亚美尼亚
+afghani阿富汗尼=afghan
+baht铢=thai
+riel瑞尔=khmer高棉人/gipsy/Gypsy
+rial里亚尔=yemen/iran
+ngun奀滚=wancho万却/万乔/india nagaland,assam/myanmar
+florin弗罗林f=netherlands荷兰
+nko=taman俄罗斯塔曼
+dorome斗蕾咪=nigeria tribe
+kaacu卡酷=tamil
+panam盘那=tamil
+pon叵=goldcoin
+varaakan瓦拉阿坎=goldcoin bearing boar insignia 
+siyaq西亚格=indic
 
