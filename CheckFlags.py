@@ -1,6 +1,6 @@
 #coding=utf-8
 #__author__ = 'cclin'
-#write by cclin 2015.5.10
+#write by cclin 2021.4.4
 
 #from openpyxl import Workbook
 #from openpyxl import load_workbook
@@ -9,8 +9,8 @@
 import sys
 import os,os.path
 import re
-import xml.dom.minidom as minidom         
-from xml.etree import ElementTree as ET   
+import xml.dom.minidom as minidom
+from xml.etree import ElementTree as ET
 import codecs
 import commands
 from subprocess import Popen,PIPE
