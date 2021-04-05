@@ -96,7 +96,7 @@ YcbCr:24位彩色 RGB to YCbCr：Y= 0.257*R+0.504*G+0.098*B+16/Cb = -0.148*R-0.2
 I:32位整形灰色 RGB TO I:I = R * 299/1000 + G * 587/1000 + B * 114/1000
 F:32位浮点 RGB TO F:F = R * 299/1000+ G * 587/1000 + B * 114/1000
 '''
-def converMode(ppath,isbak):
+def convertMode(ppath,isbak):
     f=open(ppath,"rb");    
     im = Image.open(ppath)
     if isbak:
@@ -110,6 +110,28 @@ def converMode(ppath,isbak):
     print(im.mode);
     print(im.size);
     #print(base64.b64encode(f.read()).decode('utf-8'));
+    f.close();
+
+def processNGBT():
+    fi=ip.getCur()+"coin_sections.json";
+    enc=get_encoding(fi)
+    print(enc)
+    f=codecs.open(fi,"r","utf-8");
+    lines=[];
+    for line in f:
+        a=line.lstrip().rstrip()
+        print(a);
+        if len(a)>3:
+            lines.append(line);
+            arr=a.split(",");
+            if arr[1]=='""':
+                pp=ip.getCur()+"flag_sections/"+arr[0][2:-1]
+                im = Image.open(pp)
+                sp=os.path.split(pp);        
+                np=sp[0]+"/ngbt/"
+                ip.forceDir(np);
+                im.save(np+sp[1]);
+                #print(pp);
     f.close();
 
 if __name__ == '__main__':
@@ -127,8 +149,9 @@ if __name__ == '__main__':
     print("")
     #half autohand process
 
-    #converMode(r"D:\World\TheFlags-CurrencySymbols\_currency\Albania_s_lek.png",True);
+    #convertMode(r"D:\World\TheFlags-CurrencySymbols\_currency\Albania_s_lek.png",True);
     print(get_encoding(ip.getCur()+"coin_sections.json"));
-    scaleFlags();
+    #scaleFlags();
     #scaleGBTS();
+    #processNGBT();
     #print os.path.splitext(r"D:\World\TheFlags-CurrencySymbols\_currency\Albania_s_lek.png");

@@ -4053,8 +4053,8 @@
 	"version": "1.0",
 	"image": "flag&currency.png",
 	"format": "RGBA4444",
-	"size": {"w":2048,"h":3503},
+	"size": {"w":2048,"h":4096},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:33b696dae1783c39880679d78301b20c$"
+	"smartupdate": "$TexturePacker:SmartUpdate:d087cb9aa3c247ebbe742163a1e7b1d9$"
 }
 }

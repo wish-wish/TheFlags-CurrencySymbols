@@ -6590,9 +6590,9 @@
             <key>realTextureFileName</key>
             <string>flag&amp;currency.png</string>
             <key>size</key>
-            <string>{2048,3503}</string>
+            <string>{2048,4096}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:79f6e4ffa1d3cac9bb1d20986f926d9f$</string>
+            <string>$TexturePacker:SmartUpdate:cc308e281efc3dd25ec98c1f6f718b49$</string>
             <key>textureFileName</key>
             <string>flag&amp;currency.png</string>
         </dict>
