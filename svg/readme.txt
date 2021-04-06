@@ -1,0 +1,11 @@
+Belize,伯利兹
+Mexico,墨西哥
+Saint_Pierre_and_Miquelon,圣皮埃尔和密克隆
+San_Marino,圣马力诺
+Pitcairn_Islands,皮特凯恩群岛
+South_Georgia_and_the_South_Sandwich_Islands,南乔治亚岛和南桑威奇群岛
+
+Sark,萨克岛
+Vatican_City_Holy_See,梵蒂冈城
+Virgin_Islands_UK,英属维尔京群岛
+Tristan_da_Cunha,特里斯坦/达库尼亚群岛
