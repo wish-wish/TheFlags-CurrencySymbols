@@ -584,7 +584,7 @@ if __name__ == '__main__':
     #processGBT();
     #processNGBT();
     #processSort2();
-    generateGBT2659();
+    #generateGBT2659();
     #processISO();
     #processISO_A2();
     #generateISO3166();
