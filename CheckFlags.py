@@ -527,6 +527,7 @@ def  generateISO3166():
     f=open(ip.getCur()+"data/coin_sections.json","r")
     #os.chdir((getCur()+"GBT-265").replace("/","\\"));
     print os.getcwd();
+    ip.forceDir(ip.getCur()+"ISO3166");
     os.chdir("ISO3166");
     cou=0;
     aaa=[]
@@ -555,6 +556,31 @@ def  generateISO3166():
                 print c[0],line.lstrip().rstrip().decode('utf-8').encode('gb2312');
     '''         
     f.close();
+
+def  findISOMissing():
+    f=open(ip.getCur()+"data/Country_iso3166.csv","r")
+    f1=open(ip.getCur()+"data/iso3166_cn.txt","r")
+    iso=[];
+    for line in f:
+        a=line.decode('utf-8').encode('gb2312').split(",");
+        iso.append(a[2]);
+
+    iso1=[];
+    print "iso3166_cn.txt not in Country_iso3166.csv";
+    for line in f1:
+        a=line.decode('utf-8').encode('gb2312').split(",");
+        iso1.append(a[0]);
+        if a[0] not in iso:
+            print a[0];
+
+    print "Country_iso3166.csv not in iso3166_cn.txt";
+    for line in iso:
+        if line not in iso1:
+            print line;
+
+    f1.close();
+    f.close();
+
 
 
 if __name__ == '__main__':
@@ -587,7 +613,8 @@ if __name__ == '__main__':
     #generateGBT2659();
     #processISO();
     #processISO_A2();
-    #generateISO3166();
+    generateISO3166();
+    #findISOMissing();
 
     '''
     n1="aland-islands.png";

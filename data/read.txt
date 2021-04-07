@@ -45,4 +45,16 @@ https://www.policymap.com/2012/07/tips-on-fips-a-quick-guide-to-geographic-place
 The new replacement standard for the state code (FIPS 5-2) is INCITS 38 – 2009, and for the county code (FIPS 6-4), INCITS 31 – 2009. These INCITS (InterNational Committee for Information Technology Standards) codes are standards which operate under the management of American National Standards Institute (ANSI). The Census now uses these updated ANSI codes; 
 2、iso a2/a3/n3==iso3166
 
+https://www.nationsonline.org/oneworld/country_code_list.htm
+https://github.com/umpirsky/country-list
+
 7、圣马丁岛(Sint Maarten/Saint Martin)：小安的列斯群岛北部的一个小岛，面积大约37平方英里，由山地和湖沼构成。这个小小的岛屿却分属于两个不同的国家——法国与荷兰，是世界上最小的分属两国的岛屿。法国海外瓜得娄普地区占有北部的21平方英里，首府马里格(Marigot)；荷属安的列斯占有南部的16平方英里，首府飞利浦堡(Philipsburg)。两个国家之间的分界线适当中间的山岭和湖沼(Lagoon)。两个镇都非常小，就几条街而已。这个小岛已经保持两国分治的状态三百多年了。法国与荷兰在1648年签署了一个协议分治圣马丁岛。法国和荷兰的军队在岛东面的牡蛎塘集结，然后沿着海岸线反向行进，再到最后碰头的地方，以次确定两国边界。传说出发前的仪式上，荷兰人喝了杜松子酒和淡啤，法国人喝了康杰白兰地和白酒。法国人因此酒劲十足，比荷兰人兴奋得多，跑得快，结果占得地方也大些。又有传说荷兰人被一个法国少女迷住了，浪费了不少时间，结果占得地方少。不管结果怎样，两国之间的和平友好关系持续了三百多年。任何人穿越岛上荷法边界都不需要任何手续，没有任何守卫。这是世界上绝无仅有的。1948年在岛中的边界上树立了一个纪念碑，纪念和平分治300周年。纪念碑的四周飘扬着四面旗帜，分别是荷兰国旗、法国国旗、荷属安的列斯旗和圣马丁联合管理旗。岛上无论法国与荷兰的地区都悬挂着联合管理旗。旗的色彩与荷法两国的国旗色彩相同，为红白蓝三色，上红下蓝，左侧是一个白色的三角，三角中间是圣马丁徽章。徽章上方是太阳和鹈鹕，中间是飞利浦堡法院外形、桂花、纪念碑，下方绶带写着“SEMPER PRO GREDIENS”。这面旗帜也象征着荷法友谊。
+
+iso3166_cn.txt not in Country_iso3166.csv
+BQ
+SX
+CW
+Country_iso3166.csv not in iso3166_cn.txt
+AN
+
+
