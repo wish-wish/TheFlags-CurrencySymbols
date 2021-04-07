@@ -1,3 +1,6 @@
 [submodule "gbt-2659"]
 	path = gbt-2659
 	url = https://github.com/wish-wish/gbt-2659
+[submodule "iso3166-1"]
+	path = iso3166-1
+	url = https://github.com/wish-wish/iso3166-1
