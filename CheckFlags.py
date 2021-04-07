@@ -36,7 +36,7 @@ def processFlags():
 
     frem=open(ip.getCur()+"forhumanremember.txt","r")
 
-    f=open(ip.getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"data/coin_sections.json","r")
     idx=0;
     icount=0;
     for line in f:        
@@ -80,7 +80,7 @@ def processSymbols():
         n=line.encode("gb2312").split(r"/");
         anames.append(n[len(n)-1]);
                 
-    f=open(ip.getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"data/coin_sections.json","r")
     symbols=[]
     for line in f:
         arr=line.encode("gb2312").split(",")
@@ -117,7 +117,7 @@ def processCircle2():
         anames.append(n[len(n)-1]);
     idx=0;
     hitcount=0;
-    f=open(ip.getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"data/coin_sections.json","r")
     for line in f:
         arr=line.encode("gb2312").split(",")
         if len(arr)<3:
@@ -147,7 +147,7 @@ def processCircle():
         anames.append(n[len(n)-1]);
         #print(n[len(n)-1])
 
-    f=open(ip.getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"data/coin_sections.json","r")
     hitcout=0;
     symbols=[];
     nohits=[];
@@ -202,7 +202,7 @@ def processCircle3():
         n=line.encode("gb2312").split(r"/");
         anames.append(n[len(n)-1]);        
 
-    f=open(ip.getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"data/coin_sections.json","r")
     symbols=[];
     print "";
     print "not in 261";
@@ -241,7 +241,7 @@ def processCircle3():
     f.close();
 
 def processReOrder():
-    f=open(ip.getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"data/coin_sections.json","r")
     idx=0;
     for line in f:
         arr=line.encode("gb2312").split(",")
@@ -262,7 +262,7 @@ def processReOrder():
     f.close();
 
 def processSort():
-    f=open(ip.getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"data/coin_sections.json","r")
     names=[];
     idx=0;
     newlist=[];
@@ -307,8 +307,8 @@ def getSame(na,blist):
     return "";
 
 def processGBT():
-    f=open(ip.getCur()+"coin_sections.json","r")
-    ft=open(ip.getCur()+"GBT-2659-2000.csv","r")
+    f=open(ip.getCur()+"data/coin_sections.json","r")
+    ft=open(ip.getCur()+"data/GBT-2659-2000.csv","r")
     gbt=[];
     for line in ft:
         gbt.append(line);        
@@ -332,8 +332,8 @@ def processGBT():
     f.close();
 
 def processNGBT():
-    f=open(ip.getCur()+"coin_sections.json","r")
-    ft=open(ip.getCur()+"GBT-2659-2000.csv","r")
+    f=open(ip.getCur()+"data/coin_sections.json","r")
+    ft=open(ip.getCur()+"data/GBT-2659-2000.csv","r")
     hits=[];
     for line in f:
         arr=line.encode("gb2312").rstrip().split(",")
@@ -350,7 +350,7 @@ def processNGBT():
 
 
 def processSort1():
-    f=open(ip.getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"data/coin_sections.json","r")
     names=[];
     idx=0;
     newlist=[];
@@ -392,7 +392,7 @@ def processSort1():
 
 
 def processSort2():
-    f=open(ip.getCur()+"coin_sections.json","r")    
+    f=open(ip.getCur()+"data/coin_sections.json","r")    
     idx=0;
     newlist=[];
     for line in f:
@@ -421,7 +421,7 @@ def processSort2():
     f.close();
 
 def  generateGBT2659():
-    f=open(ip.getCur()+"coin_sections.json","r")
+    f=open(ip.getCur()+"data/coin_sections.json","r")
     #os.chdir((getCur()+"GBT-265").replace("/","\\"));
     print os.getcwd();
     #os.chdir("GBT-2659");
@@ -434,6 +434,118 @@ def  generateGBT2659():
             print cmd;
             os.system(cmd);
     f.close();
+
+def processISO():
+    f=open(ip.getCur()+"data/coin_sections.json","r")
+    ft=open(ip.getCur()+"data/GBT-2659-2000.csv","r")
+    fo=open(ip.getCur()+"data/iso3166_cn.txt","r");
+    gbt=[];
+    iso=[];
+    print "name splits:"
+    for line in ft:
+        gbt.append(line);
+        a=line.lstrip().rstrip().decode('utf-8').encode('gb2312').split(",")        
+        if a[2][0]=='"' and a[2][len(a[2])-1]<>'"':
+            print line.lstrip().rstrip().decode('utf-8').encode('gb2312');
+
+    for line in fo:
+        iso.append(line);
+    
+    print "iso not in gbt:"
+    for line in iso:
+        a=line.lstrip().rstrip().decode('utf-8').encode('gb2312').split(",")
+        hit=False;
+        for bline in gbt:
+            b=bline.split(",");
+            if a[0].lower()==b[3].lower():
+                hit=True;
+        if not hit:
+            print line.decode('utf-8').encode('gb2312').lstrip().rstrip();
+
+    print "gbt not in iso:"
+    for line in gbt:
+        a=line.lstrip().rstrip().decode('utf-8').encode('gb2312').split(",")
+        hit=False;
+        for bline in iso:
+            b=bline.split(",");
+            if a[3].lower()==b[0].lower():
+                hit=True;
+        if not hit:
+            print line.decode('utf-8').encode('gb2312').lstrip().rstrip();
+          
+    f.close();
+    ft.close();
+    fo.close();
+
+def processISO_A2():
+    f=open(ip.getCur()+"data/coin_sections.json","r")
+    ft=open(ip.getCur()+"data/GBT-2659-2000.csv","r")
+    fo=open(ip.getCur()+"data/iso3166_cn.txt","r");
+    gbt=[];
+    iso=[];    
+    for line in ft:
+        if len(line.lstrip().rstrip())>2:
+            gbt.append(line.lstrip().rstrip().decode('utf-8').encode('gb2312'));                
+
+    for line in fo:
+        if len(line.lstrip().rstrip())>2:
+            iso.append(line.lstrip().rstrip().decode('utf-8').encode('gb2312'));
+        
+    for line in f:
+        if len(line.lstrip().rstrip())<3:
+            continue;
+        a=line.lstrip().rstrip().decode('utf-8').encode('gb2312').split(",")
+        hit="";
+        for aline in gbt:
+            b=aline.split(",");        
+            if len(a[1])>2 and a[1][1:-1]==b[4]:
+                hit=b[3];
+        a[1]=a[1].upper();
+        a.insert(1,'"'+hit.upper()+'"');
+        cline=a[0]+",";
+        d=0;
+        for c in a:
+            if d>0 and len(c)>0:
+                cline=cline+c+","
+            d=d+1;
+        print cline;          
+    f.close();
+    ft.close();
+    fo.close();
+
+def  generateISO3166():
+    f=open(ip.getCur()+"data/coin_sections.json","r")
+    #os.chdir((getCur()+"GBT-265").replace("/","\\"));
+    print os.getcwd();
+    os.chdir("ISO3166");
+    cou=0;
+    aaa=[]
+    for line in f:
+        a=line.encode("gb2312").lstrip().rstrip() 
+        arr=a.split(",");
+        if len(a)>3 and arr[1]<>'""':
+            cmd="copy "+ip.getCur()+"flag_sections/"+arr[0][2:-1]+" "+arr[1][1:-1]+".png";
+            cmd=cmd.replace("/","\\");
+            #print cmd;
+            os.system(cmd);
+            cou=cou+1;
+            if(arr[1][1:-1] not in aaa):
+                aaa.append(arr[1][1:-1]);
+            else:
+                print arr[1][1:-1],'------------------------------------------------------------------';
+    print cou;
+    '''
+    fo=open(ip.getCur()+"data/iso3166_cn.txt","r");
+    iso=[];              
+    for line in fo:
+        if len(line.lstrip().rstrip())>2:
+            iso.append(line.lstrip().rstrip().decode('utf-8').encode('gb2312'));
+            c=line.lstrip().rstrip().decode('utf-8').encode('gb2312').split(',');
+            if c[0] not in aaa:
+                print c[0],line.lstrip().rstrip().decode('utf-8').encode('gb2312');
+    '''         
+    f.close();
+
 
 if __name__ == '__main__':
     reload(sys) 
@@ -463,6 +575,10 @@ if __name__ == '__main__':
     #processNGBT();
     #processSort2();
     #generateGBT2659();
+    #processISO();
+    #processISO_A2();
+    generateISO3166();
+
     '''
     n1="aland-islands.png";
     n2="Aland.png"

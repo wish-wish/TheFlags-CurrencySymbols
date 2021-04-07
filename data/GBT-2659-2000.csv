@@ -44,13 +44,13 @@
 44,中国,CHINA,CN,CHN,156,中华人民共和国 People's Republic of China
 45,香港,HONG KONG,HK,HKG,344,香港 Hong Kong
 46,澳门,MACAU,MO,MAC,446,澳门 Macau
-47,台湾,"TAIWAN/PROVINCE OF CHINA",TW,TWN,158,"中国台湾 Taiwan, Province of China"
+47,台湾,"TAIWAN-PROVINCE OF CHINA",TW,TWN,158,"中国台湾 Taiwan, Province of China"
 48,圣诞岛,CHRISTMAS ISLAND,CS,CSR,162,圣诞岛 Christmas Island
 49,科科斯（基林）群岛,COCOS（KEELING） ISLANDS,CC,CCK,166,科科斯（基林）群岛 Cocos（Keeling） Islands
 50,哥伦比亚,COLOMBIA,Co,COL,170,哥伦比亚共和国 Republic of Colombia
 51,科摩罗,COMOROS,KM,COM,174,科摩罗伊斯兰联邦共和国 Federal Islamic Republic of the Co-moros
 52,刚果（布）,CONGO,CG,COG,178,刚果共和国 Republic of Congo
-53,刚果（金）,"CONGO/THE DEMOCRATIC REPUBLIC OF THE",CD,COD,180,刚果民主共和国 Democratic Republic of Congo
+53,刚果（金）,"CONGO-THE DEMOCRATIC REPUBLIC OF THE",CD,COD,180,刚果民主共和国 Democratic Republic of Congo
 54,库克群岛,COOK ISLANDS,CK,COK,184,库克群岛 Cook Islands
 55,哥斯达黎加,COSTA RICA,CR,CR,188,哥斯达黎加共和国 Republic of Costa Rica
 56,科特迪瓦,COTE D'IVOIRE,CI,CIV,384,科特迪瓦共和国 Republic of Cote d'Ivire
@@ -111,8 +111,8 @@
 111,哈萨克斯坦,KAZAKHSTAN,KZ,KAZ,398,哈萨克斯坦共和国 Republic of Kazakhstan
 112,肯尼亚,KENYA,KE,KEN,404,肯尼亚共和国 Republic of Kenya
 113,基里巴斯,KIRIBATI,KI,KIR,296,基里巴斯共和国 Republic of Kiribati
-114,朝鲜,"KOREA/DEMOCRATIC PEOPLE'S REPUBLIC OF",KP,PRK,408,朝鲜民主主义人民共和国 Democratic People's Republic of Ko-rea
-115,韩国,"KOREA/REPUBLIC OF",KR,KOR,410,大韩民国 Republic of Korea
+114,朝鲜,"KOREA-DEMOCRATIC PEOPLE'S REPUBLIC OF",KP,PRK,408,朝鲜民主主义人民共和国 Democratic People's Republic of Ko-rea
+115,韩国,"KOREA-REPUBLIC OF",KR,KOR,410,大韩民国 Republic of Korea
 116,科威特,KUWAIT,KW,KWT,414,科威特国 State of Kuwait
 117,吉尔吉斯斯坦,KYRGYZSTAN,KG,KGZ,417,吉尔吉斯共和国 Kyrgyz Republic
 118,老挝,LAOS,LA,LAO,418,老挝人民民主共和国 Lao People's Democratic Republic
@@ -124,7 +124,7 @@
 124,列支敦士登,LIECHTENSTEIN,LI,LIE,438,列支敦士登公国 Principality of Liechtenstein
 125,立陶宛,LITHUANIA,LT,LTU,440,立陶宛共和国 Republic of Lithuania
 126,卢森堡,LUXEMBOURG,LU,LUX,442,卢森堡大公国 Grand Duchy of Luxembourg
-127,前南马其顿,"MACEDONIA/THE FORMER YUGOSLAV REPUBLIC OF",MK,MKD,807,前南斯拉夫马其顿共和国 The Former Yugoslav Republic of Macedonia
+127,前南马其顿,"MACEDONIA-THE FORMER YUGOSLAV REPUBLIC OF",MK,MKD,807,前南斯拉夫马其顿共和国 The Former Yugoslav Republic of Macedonia
 128,马达加斯加,MADAGASCAR,MG,MDG,450,马达加斯加共和国 Republic of Madagascar
 129,马拉维,MALAWI,MW,MWI,454,马拉维共和国 Republic of Malawi
 130,马来西亚,MALAYSIA,MY,MYS,458,马来西亚 Malaysia
@@ -137,7 +137,7 @@
 137,毛里求斯,MAURITIUS,MU,MUS,480,毛里求斯共和国 Republic of Mauritius
 138,马约特,MAYOTTE,YT,MYT,175,马约特 Mayotte
 139,墨西哥,MEXICO,MX,MEX,484,墨西哥合众国 United States of Mexico
-140,密克罗尼西亚联邦,"MICRONESIA, FEDERATED STATES OF",FM,FSM,583,密克罗尼西亚联邦 Federated States of Micronesia
+140,密克罗尼西亚联邦,"MICRONESIA-FEDERATED STATES OF",FM,FSM,583,密克罗尼西亚联邦 Federated States of Micronesia
 141,摩尔多瓦,MOLDOVA,MD,MDA,498,摩尔多瓦共和国 Republic of Moldova
 142,摩纳哥,MONACO,MC,MCO,492,摩纳哥公国 Principality of Monaco
 143,蒙古,MONGOLIA,MN,MNG,496,蒙古国 Mongolia
@@ -229,8 +229,8 @@
 229,梵蒂冈,VATICAN,VA,VAT,336,梵蒂冈城国 Vatican City State
 230,委内瑞拉,VENEZUELA,VE,VEN,862,委内瑞拉共和国 Republic of Venezuela
 231,越南,VIET NAM,VN,VNM,704,越南社会主席共和国 Socialist Republic of Viet Nam
-232,英属维尔京群岛,"VIRGIN ISLANDS/BRITISH",VG,VGB,092,英属维尔京群岛 British Virgin Islands
-233,美属维尔京群岛,"VIRGIN ISLANDS/U.S.",VI,VIR,850,美属维尔京群岛 Virgin Islands of the United States
+232,英属维尔京群岛,"VIRGIN ISLANDS-BRITISH",VG,VGB,092,英属维尔京群岛 British Virgin Islands
+233,美属维尔京群岛,"VIRGIN ISLANDS-U.S.",VI,VIR,850,美属维尔京群岛 Virgin Islands of the United States
 234,瓦利斯和富图纳,WALLIS AND FUTUNA,WF,WLF,876,瓦利斯和富图纳群岛 Wallis and Futuna
 235,西撒哈拉,WESTERN SAHARA,EH,ESH,732,西撒哈拉 Western Sahara
 236,也门,YEMEN,YE,YEM,887,也门共和国 Republic of Yemen
