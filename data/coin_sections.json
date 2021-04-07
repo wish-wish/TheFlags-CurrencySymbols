@@ -177,7 +177,7 @@
 ["Mauritius.png","MU","MUS","","1","毛里求斯","Mauritius","Mauritius_s_Rupee.png","非洲","coin_maoliqiusilubi"],
 ["Mayotte.png","YT","MYT","","1","马约特","Mayotte","","",""],
 ["Mexico.png","MX","MEX","three-v","1","墨西哥","Mexico","Mexico_s_Peso.png","北美洲","coin_moxigebisuo"],
-["Micronesia.png","FM","","single","1","密克罗尼西亚","Federated States of Micronesia","Micronesia_s_Dollar.png","大洋州",""],
+["Micronesia.png","FM","FSM","single","1","密克罗尼西亚","Federated States of Micronesia","Micronesia_s_Dollar.png","大洋州",""],
 ["Moldova.png","MD","MDA","three-v","1","摩尔多瓦","Moldova","Moldova_s_Leu.png","欧洲","coin_ouyuan"],
 ["Monaco.png","MC","MCO","two","1","摩纳哥","Monaco","Monaco_s_Euro.png","欧洲","coin_ouyuan"],
 ["Mongolia.png","MN","MNG","three-v","1","蒙古","Mongolia","Mongolia_s_Tughrik.png","亚洲",""],

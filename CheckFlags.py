@@ -423,16 +423,26 @@ def processSort2():
 def  generateGBT2659():
     f=open(ip.getCur()+"data/coin_sections.json","r")
     #os.chdir((getCur()+"GBT-265").replace("/","\\"));
+    ft=open(ip.getCur()+"data/GBT-2659-2000.csv","r")
     print os.getcwd();
-    #os.chdir("GBT-2659");
+    os.chdir("GBT");
+    gbt=[];
     for line in f:
         a=line.encode("gb2312").lstrip().rstrip() 
         arr=a.split(",");
-        if len(a)>3 and arr[1]<>'""':
-            cmd="copy "+ip.getCur()+"flag_sections/"+arr[0][2:-1]+" "+arr[1][1:-1]+".png";
+        if len(a)>3 and arr[2]<>'""':
+            cmd="copy "+ip.getCur()+"flag_sections/"+arr[0][2:-1]+" "+arr[2][1:-1]+".png";
             cmd=cmd.replace("/","\\");
-            print cmd;
+            #print cmd;
+            gbt.append(arr[2][1:-1]);
             os.system(cmd);
+    '''
+    for line in ft:
+        a=line.lstrip().rstrip().decode('utf-8').encode('gb2312').split(",")        
+        if a[4] not in gbt:
+            print a[4],'---------------------------------------------';            
+    '''
+    ft.close();
     f.close();
 
 def processISO():
@@ -574,10 +584,10 @@ if __name__ == '__main__':
     #processGBT();
     #processNGBT();
     #processSort2();
-    #generateGBT2659();
+    generateGBT2659();
     #processISO();
     #processISO_A2();
-    generateISO3166();
+    #generateISO3166();
 
     '''
     n1="aland-islands.png";
